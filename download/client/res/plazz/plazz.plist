@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>plazz/new_plazz/add.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{242,845},{44,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+			<key>plazz/new_plazz/bdyl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{202,893},{92,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{92,93}</string>
+			</dict>
+			<key>plazz/new_plazz/bxx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,942},{77,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{77,84}</string>
+			</dict>
+			<key>plazz/new_plazz/cz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,450},{316,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{316,119}</string>
+			</dict>
+			<key>plazz/new_plazz/dh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,941},{57,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{57,84}</string>
+			</dict>
+			<key>plazz/new_plazz/fk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{125,538},{58,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,81}</string>
+			</dict>
+			<key>plazz/new_plazz/guangg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{255,444}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{255,444}</string>
+			</dict>
+			<key>plazz/new_plazz/gx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,538},{66,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,66}</string>
+			</dict>
+			<key>plazz/new_plazz/hdgg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,893},{107,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{107,93}</string>
+			</dict>
+			<key>plazz/new_plazz/jb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,845},{236,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,44}</string>
+			</dict>
+			<key>plazz/new_plazz/kf.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{386,941},{63,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,83}</string>
+			</dict>
+			<key>plazz/new_plazz/logo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,770},{419,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{419,71}</string>
+			</dict>
+			<key>plazz/new_plazz/phb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,845},{84,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,93}</string>
+			</dict>
+			<key>plazz/new_plazz/sz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{386,845},{84,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,92}</string>
+			</dict>
+			<key>plazz/new_plazz/tx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{125,450},{84,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,84}</string>
+			</dict>
+			<key>plazz/new_plazz/txk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{99,893},{99,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{99,99}</string>
+			</dict>
+			<key>plazz/new_plazz/xz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{213,450},{66,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,66}</string>
+			</dict>
+			<key>plazz/new_plazz/yj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{125,623},{59,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,77}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>plazz.png</string>
+			<key>realTextureFileName</key>
+			<string>plazz.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

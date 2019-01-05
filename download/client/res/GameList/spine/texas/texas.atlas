@@ -1,0 +1,188 @@
+
+texas.png
+size: 588,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: false
+  xy: 330, 4
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+btn03
+  rotate: false
+  xy: 112, 55
+  size: 159, 14
+  orig: 159, 14
+  offset: 0, 0
+  index: -1
+btn04
+  rotate: false
+  xy: 2, 188
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+btn_L
+  rotate: false
+  xy: 2, 355
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+btn_L2
+  rotate: false
+  xy: 112, 71
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+poker_body
+  rotate: true
+  xy: 2, 52
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+poker_eye
+  rotate: true
+  xy: 229, 78
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+poker_head
+  rotate: true
+  xy: 168, 200
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_1
+  rotate: true
+  xy: 330, 32
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_00
+  rotate: false
+  xy: 229, 130
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_01
+  rotate: false
+  xy: 273, 60
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_02
+  rotate: true
+  xy: 169, 367
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_03
+  rotate: true
+  xy: 238, 212
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_04
+  rotate: true
+  xy: 239, 367
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_05
+  rotate: true
+  xy: 308, 212
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_06
+  rotate: true
+  xy: 309, 367
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_07
+  rotate: true
+  xy: 378, 212
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_08
+  rotate: false
+  xy: 384, 142
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_09
+  rotate: false
+  xy: 428, 72
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_10
+  rotate: false
+  xy: 428, 2
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_11
+  rotate: true
+  xy: 379, 367
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_12
+  rotate: true
+  xy: 448, 212
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_13
+  rotate: true
+  xy: 449, 367
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_head_L/poker_head_L_14
+  rotate: true
+  xy: 518, 212
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+poker_txt
+  rotate: false
+  xy: 200, 16
+  size: 128, 37
+  orig: 128, 37
+  offset: 0, 0
+  index: -1
+txt_
+  rotate: false
+  xy: 2, 3
+  size: 196, 47
+  orig: 196, 47
+  offset: 0, 0
+  index: -1

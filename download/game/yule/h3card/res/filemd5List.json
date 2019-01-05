@@ -1,0 +1,852 @@
+{
+  "listdata": [
+    {
+      "md5": "84f0186c9fb6fe6b7652e285bb92e02e", 
+      "name": "gameLayer.csb", 
+      "path": "h3card/res/"
+    }, 
+    {
+      "md5": "f791810598bcd01ca525fcdc0a028d63", 
+      "name": "OverLayer.csb", 
+      "path": "h3card/res/"
+    }, 
+    {
+      "md5": "27dbe1a9908ece7e06d7e53f22ec368f", 
+      "name": "WallBill_0.csb", 
+      "path": "h3card/res/"
+    }, 
+    {
+      "md5": "7754d1441b4d661218636a67c46d398a", 
+      "name": "Button_Disable.png", 
+      "path": "h3card/res/Default/"
+    }, 
+    {
+      "md5": "28300638971e3a59c80cfa25c0594e1c", 
+      "name": "Button_Normal.png", 
+      "path": "h3card/res/Default/"
+    }, 
+    {
+      "md5": "a23c68e9236808ac42d87d9a6bac510a", 
+      "name": "Button_Press.png", 
+      "path": "h3card/res/Default/"
+    }, 
+    {
+      "md5": "18f25c0b86ac9449d9cc1054033eb7c2", 
+      "name": "Sprite.png", 
+      "path": "h3card/res/Default/"
+    }, 
+    {
+      "md5": "d0a887264572cf6208a0511399f704fb", 
+      "name": "fnt5.png", 
+      "path": "h3card/res/fonts/"
+    }, 
+    {
+      "md5": "8fd52467613444ca4f3492285e5a622b", 
+      "name": "longhudou_winner_add.fnt", 
+      "path": "h3card/res/fonts/"
+    }, 
+    {
+      "md5": "0abb35e0c232987c6b3f379fd77be6a4", 
+      "name": "longhudou_winner_add_0.png", 
+      "path": "h3card/res/fonts/"
+    }, 
+    {
+      "md5": "e7658a5109c248d29fbddfc7fa98c338", 
+      "name": "rewards.fnt", 
+      "path": "h3card/res/fonts/"
+    }, 
+    {
+      "md5": "86decab97f694e8d4db4a00fc8554a02", 
+      "name": "rewards_0.png", 
+      "path": "h3card/res/fonts/"
+    }, 
+    {
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "h3card/res/fonts/"
+    }, 
+    {
+      "md5": "788bc88d9bb15112f6dbb99eff2c3d8d", 
+      "name": "add.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "0f14d69617e561cb59a9702a07d2c2ac", 
+      "name": "fh.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "e473f0b3e414765be2e30bac3f5569bf", 
+      "name": "h3card_areahe.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "0da63cb8b2dbdb81a0ec8ba49795b951", 
+      "name": "h3card_btn_hundred.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "9169c5f1c3bbb20e434fef9a12916672", 
+      "name": "h3card_img_bg.jpg", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "611182aee5628e888aaac97cb68b9c6a", 
+      "name": "h3card_img_black.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "73acac867f10acd9108c9284e591302b", 
+      "name": "h3card_img_cardtype_1.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "c69ef21fc7fa4216652cb65b379dd68b", 
+      "name": "h3card_img_cardtype_2.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "7cd1e091af85e250a2de87a3f0d28744", 
+      "name": "h3card_img_cardtype_3.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "b688f81cf824c41a13a905d1ded858bd", 
+      "name": "h3card_img_cardtype_4.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "c4838ff99d7a59c0a22c6e1ae1a7e849", 
+      "name": "h3card_img_cardtype_5.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "58fd408c6ec8f3fa4d619872f0617852", 
+      "name": "h3card_img_cardtype_6.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "73acac867f10acd9108c9284e591302b", 
+      "name": "h3card_img_cardtypegray_1.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "d0560d42538ac3e9885571e042131cb2", 
+      "name": "h3card_img_he.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "e3f24680b5f697a3c0067614e9d3f6db", 
+      "name": "h3card_img_hei.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "86c888daf1b216ae3be9d817060f5c44", 
+      "name": "h3card_img_hong.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "9146a6cc552af6b0eaa44c5fc9407b09", 
+      "name": "h3card_img_hongvshei.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "b49ab7ce85bb36bbb7329edfb4fb2f72", 
+      "name": "h3card_img_ludan.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "3c6ec88b6ea69e4234419638820e69e5", 
+      "name": "h3card_img_rect.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "252a3e3c6f87e9269d6ecd5d619edea0", 
+      "name": "h3card_img_red.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "f80b62cbb9bf888cc1fb59faf258ff19", 
+      "name": "h3card_img_roundrect.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "1fec8a8df1b2a6a22a6adeced8c1dcae", 
+      "name": "h3card_img_shadow.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "326ccba81355bec0c827211ae6960e16", 
+      "name": "h3card_img_vs.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "9a7e1411635c1928badd65005b99d324", 
+      "name": "h3card_item_cardtype_2.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "732799b913b17be56b04aded678b707c", 
+      "name": "h3card_item_cardtype_3.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "d1aba9d83b6b197a80e5786ca4046955", 
+      "name": "h3card_item_cardtype_4.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "520a1a4ba1e890aa06ee48750bf62be3", 
+      "name": "h3card_item_cardtype_5.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "e5433c16389f7eafb750eaa96ff95a35", 
+      "name": "h3card_item_cardtype_6.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "a3884667ef44c35bb94fc2994300328a", 
+      "name": "h3card_item_cardtypegray_1.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "b825a8d25658c45680f3057a55253434", 
+      "name": "h3card_item_cardtypegray_2.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "58bd42ab2161ba766b7cc9eae198080e", 
+      "name": "h3card_item_cardtypegray_3.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "1310262dd99d72c0b333dd8ba849e68c", 
+      "name": "h3card_item_cardtypegray_4.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "de0cd979858548768c347dee045820f2", 
+      "name": "h3card_item_cardtypegray_5.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "ce272b267d5a7f3ac604026bc97af270", 
+      "name": "h3card_item_cardtypegray_6.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "0f8fe4d3130c932141c311ffe1c7056b", 
+      "name": "h3card_notice_raise.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "038f9730a4e56e8356e67ab2551e0658", 
+      "name": "he.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "6088a6ec0f8a62af323152c05683a6eb", 
+      "name": "jetton0.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "bd4f7877485544c7faa1190478d9b050", 
+      "name": "jetton1.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "25c056aa18644f1a3ec5cdffe909b461", 
+      "name": "jetton2.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "cadd1a58f91c6d750bded6f9eef93d0e", 
+      "name": "jetton3.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "feb5a30a006c5a488a6e538a83194c2f", 
+      "name": "jetton4.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "b67a1dd15744a0b41b0c6caefe259126", 
+      "name": "jinbi_k.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "a48821a1e82a8271bea00da244012183", 
+      "name": "jjkj.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "d2768e560992fddf9d24dff60cccb031", 
+      "name": "kpz.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "b49faf56a9e8d8c7d6fd1c62f4134e97", 
+      "name": "ksxz.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "7ca2f7e17fa815d0ef52e46cb0842eaf", 
+      "name": "mdls.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "1c1b3a99301079a9d896fd491b65111c", 
+      "name": "menu_bg.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "937b047d4697e2828a8f293dc9cdc914", 
+      "name": "menu_fh.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "04d3c3a4a10d4469617bb0a43606bff3", 
+      "name": "menu_jt2.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "595af4b9533d4630e031bdfee35cd5aa", 
+      "name": "menu_sm.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "e659ea3ff2c602c299fa0869500c9199", 
+      "name": "menu_sz.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "7ffeb3e6e1384f0135191bb05ae2757d", 
+      "name": "new_bjl_dy_h.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "4a830f9bfdc4bbf2f5c697dfb687a381", 
+      "name": "new_bjl_dy_l.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "3ac8f9e545f6878035d5147d85cf04b2", 
+      "name": "qxz.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "b9a7f477937a5b919420d0afd51c3d4c", 
+      "name": "tishi_bg.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "c9e5dfb881874f83bfdcda62b9892218", 
+      "name": "tx_zj.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "8367838128c453c2f04d72678fd6a317", 
+      "name": "txk.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "4e4e1d5b51ba38bd7021d6c40f24c114", 
+      "name": "wh.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "8f4fd58ebed01dc73dfcd1bfc66edb01", 
+      "name": "xuya_green.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "53130ae1f508e054a6d0036e8c38cade", 
+      "name": "xuya_hui.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "d76e070fb8b51eff84dd51ce8f9c3dcd", 
+      "name": "xzq_cm.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "ee9d51df3a9617fe0bae4aba898b0907", 
+      "name": "zijixz.png", 
+      "path": "h3card/res/img/"
+    }, 
+    {
+      "md5": "97cddf107fdf3b22fe95125982572311", 
+      "name": "dsx_h.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "ab2b9a42bf5e13132c2397eac6375947", 
+      "name": "dsx_l.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "a82c51774ec683693aa3b6fbce4243d8", 
+      "name": "dxx_h.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "088474ca3fec191092dff95d17621cae", 
+      "name": "dxx_l.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "c1a542dfd63c8ef1c16023120031857d", 
+      "name": "dy_h.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "bbf51c5e0ebafe9fef1d52444769b982", 
+      "name": "dy_l.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "d721702a7223f5bcbfeb35924e005770", 
+      "name": "fnt1.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "acd7a0d46a2aa672d1a67fe29329bf4f", 
+      "name": "fnt2.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "fa7e6b174ea6f4798c7f72cd56d1cff0", 
+      "name": "fnt3.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "46d59c4b75b0ad46cf71466714d08a19", 
+      "name": "fnt4.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "d0a887264572cf6208a0511399f704fb", 
+      "name": "fnt5.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "91bce61c0e5a88f3b153795159e1668c", 
+      "name": "he.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "c41bc79318b476e3c42c7307d7608d32", 
+      "name": "hei.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "e0607162c6252f614374523aa4f80c07", 
+      "name": "hong.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "25fb732f132a25f87c99701ca1bea803", 
+      "name": "hu.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "5b09485e5ed8e5ab548a6e2f0ebbf5ed", 
+      "name": "long.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "2cad3456e8759235352efb604aeaecff", 
+      "name": "ludan_zz.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "77dc1a933b41b5f57fd6b42fc17b9f82", 
+      "name": "room_chipbg.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "7d449478da619a5b9891b117c1416946", 
+      "name": "sitrole_font_score_add.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "e499ed30a1217001c2b91aeacca42e12", 
+      "name": "sitrole_font_score_min.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "1894febd7102b33ef27c360bb3c8a62f", 
+      "name": "sx_h.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "cf0df5b86f02419960f35bcb35e75681", 
+      "name": "sx_l.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "b9a7f477937a5b919420d0afd51c3d4c", 
+      "name": "tishi_bg.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "6b1c511e21920b98897eb260cbbfc3f3", 
+      "name": "xx_h.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "88d39d20de43f20eaa22b8e37d90d30f", 
+      "name": "xx_l.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "a2224633ac607ba3c51c2940bbf8a793", 
+      "name": "xy_h.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "13e78c8e7844ceabaaa390b753ccf778", 
+      "name": "xy_l.png", 
+      "path": "h3card/res/new_bjl/"
+    }, 
+    {
+      "md5": "66fd831ecdc254a6ea97b118e377df35", 
+      "name": "icon_roomlist_0.png", 
+      "path": "h3card/res/roomlist/"
+    }, 
+    {
+      "md5": "516e76e38c23e7cb3fffb8c2443727bc", 
+      "name": "icon_roomlist_1.png", 
+      "path": "h3card/res/roomlist/"
+    }, 
+    {
+      "md5": "31561ee978d82b9707c99cb005fdfc08", 
+      "name": "icon_roomlist_2.png", 
+      "path": "h3card/res/roomlist/"
+    }, 
+    {
+      "md5": "cb56bef621c74116e514eeab86cf9fb0", 
+      "name": "roomlist_title.png", 
+      "path": "h3card/res/roomlist/"
+    }, 
+    {
+      "md5": "4f4253c6d9acdb3956fb5296955c0d2a", 
+      "name": "Rule.txt", 
+      "path": "h3card/res/roomlist/"
+    }, 
+    {
+      "md5": "966deab48e2b8f20c191ed0ea711798c", 
+      "name": "audio_reminded_myself.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "29159c500218a84a6dc1d25558a15c9b", 
+      "name": "bet.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "ebc88278ab816b6b2ccfae9e497ac3ef", 
+      "name": "big_winner.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "dd219210323e5c8cfc39a02d1ea15e67", 
+      "name": "flip_card.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "474b668ae047b3e3a1a513c3545a546e", 
+      "name": "he.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "f061ab1837625751ac4ace3fc17c3e22", 
+      "name": "hu_win.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "0f49e57e17e7c85c6e872a66c3c03f7e", 
+      "name": "lhb_p_1.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "9d9740483a05dae8bf75c99addcd28d3", 
+      "name": "lhb_p_10.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "fda98ead8cfe245b07ada55264b41b8b", 
+      "name": "lhb_p_11.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "85e797827e2c6a92adc722b9a9227307", 
+      "name": "lhb_p_12.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "5fba555f636a08ff66b9871e264d4a65", 
+      "name": "lhb_p_13.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "302c1e18f8150a831aa85777b1df0b77", 
+      "name": "lhb_p_2.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "8dbfbc1130d3844718b19e6c2cffc718", 
+      "name": "lhb_p_3.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "b4c6cf32466d9fa29c93804a973ca3ed", 
+      "name": "lhb_p_4.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "61f60cc8c2fc123f9af4e7ded3eac311", 
+      "name": "lhb_p_5.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "b621a92b28831d535a2138de6e8e9000", 
+      "name": "lhb_p_6.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "54fd4d4c3b5276c67c91802bada8f66a", 
+      "name": "lhb_p_7.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "f65027da60f0ae5416afe46e5e29d63f", 
+      "name": "lhb_p_8.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "c26136dd0e760470e6b7aafda3481cf2", 
+      "name": "lhb_p_9.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "a5a8526489db9a1485d85d2b25f39fbb", 
+      "name": "long_win.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "cac36f50b47e5f1516bb7cb45094bf50", 
+      "name": "on_bet0.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "603f2ab26880570aa3e9e34b725b2a46", 
+      "name": "on_bet1.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "53528318e451a3067f9c444bea1ccac7", 
+      "name": "on_bet2.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "2ac9d64cc8ef72794bd96b2f85ca263d", 
+      "name": "on_bet3.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "55ae5a4d240016d4e25c2aac46edfd5b", 
+      "name": "on_bet4.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "b7e2837ec8f5ec8a9ebc87a7406d4ee4", 
+      "name": "send_card.mp3", 
+      "path": "h3card/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "9df2fb096b678834aa08c1f034b7815b", 
+      "name": "background.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "c9c5ec260661825e2d67b00f57553c18", 
+      "name": "bet_end.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "ba19ee129fae69cda086ba587545b95b", 
+      "name": "bet_ready.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "ca3953c35814390aa82e52c536b45936", 
+      "name": "bet_start.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "5e79e37c6da535ada7de80d5e3ed2cd9", 
+      "name": "cardtype_1.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "7122271dc32d47631610e514e7251da5", 
+      "name": "cardtype_2.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "7c339a422ddc1aa9ed8a321235ac65ec", 
+      "name": "cardtype_3.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "ed422566b2beec9b4ac9543ef3ee2b60", 
+      "name": "cardtype_4.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "cb0e1ef346c9390727b8690044a3acb3", 
+      "name": "cardtype_5.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "22a3124e144e4f404441b93bc81471f2", 
+      "name": "cardtype_6.mp3", 
+      "path": "h3card/res/sound_res/music/"
+    }, 
+    {
+      "md5": "727b1da1d15482d85aa8271d8f953fe7", 
+      "name": "bt.png", 
+      "path": "h3card/res/userlist/"
+    }, 
+    {
+      "md5": "bcb065dfefe2732b61ee28351a0b89df", 
+      "name": "txk.png", 
+      "path": "h3card/res/userlist/"
+    }, 
+    {
+      "md5": "54bebf30e976d657f2b862807004a6d6", 
+      "name": "UserCellNode.csb", 
+      "path": "h3card/res/userlist/"
+    }, 
+    {
+      "md5": "fdf1fa10a49f9858362eda59f46f719a", 
+      "name": "UserItemNode.csb", 
+      "path": "h3card/res/userlist/"
+    }, 
+    {
+      "md5": "67be6db402f9b766ab4661f1d2454813", 
+      "name": "userlist_avatar_frame.png", 
+      "path": "h3card/res/userlist/"
+    }, 
+    {
+      "md5": "d3d895829f752fd0215f97cd75a1c5b1", 
+      "name": "userlist_bg.png", 
+      "path": "h3card/res/userlist/"
+    }, 
+    {
+      "md5": "f3bdee4464bfa2f331c6b1f5db03865f", 
+      "name": "userlist_coin.png", 
+      "path": "h3card/res/userlist/"
+    }, 
+    {
+      "md5": "bfddbb66455e08d5405f75b2d6d4bfe2", 
+      "name": "UserListNode.csb", 
+      "path": "h3card/res/userlist/"
+    }, 
+    {
+      "md5": "976b10685d993b79e4da1143547618ad", 
+      "name": "bjlGameDefine.luac", 
+      "path": "h3card/src/models/"
+    }, 
+    {
+      "md5": "9f76f1f71ffbbafc6f7ffd5d48b99133", 
+      "name": "CMD_Game.luac", 
+      "path": "h3card/src/models/"
+    }, 
+    {
+      "md5": "4f6c2acbe21811c1bf573cc8a84adc05", 
+      "name": "GameFrame.luac", 
+      "path": "h3card/src/models/"
+    }, 
+    {
+      "md5": "095acd1d5d3a92ef843a6980bd9abfc9", 
+      "name": "GameLogic.luac", 
+      "path": "h3card/src/models/"
+    }, 
+    {
+      "md5": "7f6437e42fd13a890b7880788166292f", 
+      "name": "GameLayer.luac", 
+      "path": "h3card/src/views/"
+    }, 
+    {
+      "md5": "ad9f4ad40640374c9c83e6bf5ee81501", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "h3card/src/views/"
+    }, 
+    {
+      "md5": "e3fe1426e88341167c8838e388de9c3f", 
+      "name": "GameCardLayer.luac", 
+      "path": "h3card/src/views/layer/"
+    }, 
+    {
+      "md5": "3b4ac06a20dad55b04483eacb19b198b", 
+      "name": "GameViewLayer.luac", 
+      "path": "h3card/src/views/layer/"
+    }, 
+    {
+      "md5": "b44eb77433c623e15610597c77d247e9", 
+      "name": "SettingLayer.luac", 
+      "path": "h3card/src/views/layer/"
+    }, 
+    {
+      "md5": "c6992d193331a195268dcd745d28f110", 
+      "name": "WallBillLayer.luac", 
+      "path": "h3card/src/views/layer/"
+    }, 
+    {
+      "md5": "7f7eaf35cce4f57ed05ced64430412dc", 
+      "name": "CardsNode.luac", 
+      "path": "h3card/src/views/layer/gamecard/"
+    }, 
+    {
+      "md5": "896521f1c08ef539dc8fab15fe3c4844", 
+      "name": "CardSprite.luac", 
+      "path": "h3card/src/views/layer/gamecard/"
+    }, 
+    {
+      "md5": "76387793e7ef5d08f23563d7ac999456", 
+      "name": "ApplyListLayer.luac", 
+      "path": "h3card/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "33f81247503c2eb9446c3cf9fc8050b9", 
+      "name": "PlayerListLayer.luac", 
+      "path": "h3card/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "99b693fcd5dd3e9527a0d00983dc5b54", 
+      "name": "SitRoleNode.luac", 
+      "path": "h3card/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "e47356486eb4d8945e14681365bf408a", 
+      "name": "UserHead.luac", 
+      "path": "h3card/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "c6e4e641ef38b2572b1f3039f00096ea", 
+      "name": "UserItem.luac", 
+      "path": "h3card/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "24d8bbfaa04184aa42b7fe6ff526e190", 
+      "name": "UserListLayer.luac", 
+      "path": "h3card/src/views/layer/userlist/"
+    }, 
+    {
+      "allcount": 169
+    }
+  ]
+}

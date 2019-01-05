@@ -1,0 +1,230 @@
+
+longhudou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragon/Dragon/longhudou03_Dragon_001
+  rotate: false
+  xy: 169, 867
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_002
+  rotate: false
+  xy: 2, 533
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_003
+  rotate: false
+  xy: 298, 867
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_004
+  rotate: false
+  xy: 2, 376
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_005
+  rotate: false
+  xy: 427, 867
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_006
+  rotate: false
+  xy: 2, 219
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_007
+  rotate: false
+  xy: 556, 867
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_008
+  rotate: false
+  xy: 2, 62
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_009
+  rotate: false
+  xy: 685, 867
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Dragon/longhudou03_Dragon_010
+  rotate: false
+  xy: 814, 867
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_001
+  rotate: false
+  xy: 131, 48
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_002
+  rotate: false
+  xy: 168, 709
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_003
+  rotate: false
+  xy: 180, 567
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_004
+  rotate: false
+  xy: 283, 709
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_005
+  rotate: false
+  xy: 295, 567
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_006
+  rotate: false
+  xy: 398, 725
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_007
+  rotate: false
+  xy: 513, 725
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_008
+  rotate: false
+  xy: 628, 725
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_009
+  rotate: false
+  xy: 743, 725
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Dragon/Tiger/Tiger_010
+  rotate: false
+  xy: 410, 583
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 858, 839
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+btn03
+  rotate: false
+  xy: 169, 851
+  size: 159, 14
+  orig: 159, 14
+  offset: 0, 0
+  index: -1
+btn04
+  rotate: false
+  xy: 2, 690
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+btn_L
+  rotate: false
+  xy: 2, 857
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+btn_L2
+  rotate: false
+  xy: 640, 608
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+longhudou01_Word_A
+  rotate: false
+  xy: 180, 535
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+longhudou03_Dragon
+  rotate: false
+  xy: 131, 335
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+longhudou04_Word_B
+  rotate: true
+  xy: 943, 859
+  size: 163, 70
+  orig: 163, 70
+  offset: 0, 0
+  index: -1
+longhudou06_Tiger
+  rotate: false
+  xy: 525, 583
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+longhudou07_Word_C
+  rotate: false
+  xy: 131, 190
+  size: 118, 143
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+longhudou_txt
+  rotate: false
+  xy: 2, 2
+  size: 114, 44
+  orig: 114, 44
+  offset: 0, 0
+  index: -1
+txt_
+  rotate: true
+  xy: 131, 492
+  size: 196, 47
+  orig: 196, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+souha_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pdk_xlf_px_bz01
+  rotate: false
+  xy: 2, 728
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+pdk_xlf_px_bz02
+  rotate: false
+  xy: 2, 466
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+pdk_xlf_px_bz03
+  rotate: false
+  xy: 289, 728
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+pdk_xlf_px_bz04
+  rotate: false
+  xy: 2, 204
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+pdk_xlf_px_bz05
+  rotate: false
+  xy: 289, 466
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+pdk_xlf_px_bz06
+  rotate: false
+  xy: 576, 728
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+thjhj_qi_zha_baodian2
+  rotate: false
+  xy: 863, 924
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+txkzk0001
+  rotate: false
+  xy: 2, 2
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+txkzk0002
+  rotate: false
+  xy: 289, 264
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+txkzk0003
+  rotate: false
+  xy: 576, 526
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+txkzk0004
+  rotate: false
+  xy: 164, 2
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+txkzk0005
+  rotate: false
+  xy: 451, 264
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1

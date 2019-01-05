@@ -1,0 +1,125 @@
+
+shaizi_spine.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mhdsz_01
+  rotate: true
+  xy: 172, 5
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+mhdsz_02
+  rotate: false
+  xy: 359, 193
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+mhdsz_03
+  rotate: true
+  xy: 400, 194
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+mhdsz_04
+  rotate: false
+  xy: 276, 191
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+mhdsz_05
+  rotate: false
+  xy: 441, 195
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+mhdsz_06
+  rotate: false
+  xy: 207, 22
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+mhdsz_07
+  rotate: false
+  xy: 88, 3
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+mhdsz_08
+  rotate: false
+  xy: 129, 7
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+mhdsz_09
+  rotate: false
+  xy: 190, 147
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+mhdsz_10
+  rotate: false
+  xy: 190, 190
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+mhdsz_11
+  rotate: false
+  xy: 190, 62
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+mhdsz_12
+  rotate: false
+  xy: 45, 3
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+mhdsz_13
+  rotate: false
+  xy: 190, 104
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+mhdsz_14
+  rotate: false
+  xy: 2, 2
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+mhdsz_15
+  rotate: false
+  xy: 233, 191
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+mhdsz_16
+  rotate: true
+  xy: 316, 194
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+shake
+  rotate: false
+  xy: 2, 46
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1

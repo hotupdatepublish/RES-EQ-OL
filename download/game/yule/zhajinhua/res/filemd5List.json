@@ -1,0 +1,422 @@
+{
+  "listdata": [
+    {
+      "md5": "8410c5a8904361d5b2658b16a82e2134", 
+      "name": "1ready.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "2c84b7235b6992acd686247ebbb77dac", 
+      "name": "2bet.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "4c5cd58c997b57bae9cb691c9853ddf2", 
+      "name": "3look.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "a1cdf1044198f2006a0004bb4b29f964", 
+      "name": "4qipai.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "de60838a22260978febd0d060fbf5fdd", 
+      "name": "5lookother.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "303f8ef501ca1f3a12a4ed41106590a6", 
+      "name": "6compare.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "3ef374a5f286450c4ad3367299191594", 
+      "name": "7end.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "9c6e5b18eff239271dfa125da36f78e3", 
+      "name": "7endwords.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "30325b48fd07f00b789e3f556dff5295", 
+      "name": "8wanfa.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "9bd4ca303ed6d11d2f404a262286afd1", 
+      "name": "allimg.plist", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "8c6eb03ae665832a93ca5643d1f64230", 
+      "name": "allimg.png", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "56b32f5d338112499e6dec80d63d9136", 
+      "name": "compareLayer.csb", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "3efb82605021a787b05ef8f4c007a565", 
+      "name": "EndLayer.csb", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "834552925366d5fdd02c2f1239dce765", 
+      "name": "guanggao.jpg", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "19587374be45eb9b7547f2285257107b", 
+      "name": "MainScene.csb", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "34be076436d6cfd38d935b1ff3475bba", 
+      "name": "poker.plist", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "0f268a6c251e24fa56df896d6e3bd0a8", 
+      "name": "poker.png", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "7d0e27118e9a7076971915efcf11993e", 
+      "name": "fnt_zhajinhua_bet.png", 
+      "path": "zhajinhua/res/fonts/"
+    }, 
+    {
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "zhajinhua/res/fonts/"
+    }, 
+    {
+      "md5": "4ed51bab0b0279013e21c9e547f1305c", 
+      "name": "zhajinhua_bg.jpg", 
+      "path": "zhajinhua/res/img/"
+    }, 
+    {
+      "md5": "9ae5236434f39d0b0ea921e6dd222358", 
+      "name": "zhajinhua_di.png", 
+      "path": "zhajinhua/res/img/"
+    }, 
+    {
+      "md5": "3f8626c2f4ba17da43d2bf1d6de17163", 
+      "name": "roomlist_title.png", 
+      "path": "zhajinhua/res/roomlist/"
+    }, 
+    {
+      "md5": "89033f09c350e23f0c8bc0f047fa422c", 
+      "name": "Rule.txt", 
+      "path": "zhajinhua/res/roomlist/"
+    }, 
+    {
+      "md5": "521b643dced3f6e90c268138782264ce", 
+      "name": "rule_zjh_0.png", 
+      "path": "zhajinhua/res/roomlist/"
+    }, 
+    {
+      "md5": "91bf627bb0eb906aae8c4f6b35215ddf", 
+      "name": "rule_zjh_1.png", 
+      "path": "zhajinhua/res/roomlist/"
+    }, 
+    {
+      "md5": "7fda68b288acae99420b95eddb3e89cc", 
+      "name": "ADD_SCORE.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "d70156a68035d3adbdc442ad321a5830", 
+      "name": "audio_reminded_myself.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "9df2fb096b678834aa08c1f034b7815b", 
+      "name": "background.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "d24568107d50296b4a6eff6c1d8c240a", 
+      "name": "bet_unveil_cards.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "13c3325f5b25bd4310cce24ad01a3e36", 
+      "name": "CENTER_SEND_CARD.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
+      "name": "CHOOSE_SCORE.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "8849279459248cb153d66b3b9c4ba655", 
+      "name": "COMPARE_LOSE.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "7b4818fd9f1476fb0fd06fb03474bb39", 
+      "name": "COMPARE_WIN.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "288e245c31d6e80fb6cc12f287784a11", 
+      "name": "GAME_END.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "7a0c16f2984171cd14358f83be4aceba", 
+      "name": "GAME_LOSE.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "0c80e62b6c93f8e0fe9e6c23ad276661", 
+      "name": "GAME_START.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "b1924524c25f3ca73b5f97baa87f1ba8", 
+      "name": "GAME_WARN.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "03c9ca8b9e255eb809a7397b78c99d3c", 
+      "name": "GAME_WIN.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "9aff6ce7afa7d93a5240492371b15a0a", 
+      "name": "GET_COIN.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "10e9aa066d63e44aa994838e41ba676f", 
+      "name": "GET_MORECOIN.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "6861a6eff7811375ee7da99c47a3ba80", 
+      "name": "goodluck.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "e5bdf755be5724788255175c043bc032", 
+      "name": "lightning.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "88419c335f18ae36afa7d3bb3889f479", 
+      "name": "NO_ADD.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "603f2ab26880570aa3e9e34b725b2a46", 
+      "name": "on_bet1.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "53528318e451a3067f9c444bea1ccac7", 
+      "name": "on_bet2.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "2ac9d64cc8ef72794bd96b2f85ca263d", 
+      "name": "on_bet3.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "55ae5a4d240016d4e25c2aac46edfd5b", 
+      "name": "on_bet4.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "d222bca458e201335dd90452a0827ff8", 
+      "name": "regret.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "b7e2837ec8f5ec8a9ebc87a7406d4ee4", 
+      "name": "send_card.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "8c744a5ab42b849ba5556e45e17fef89", 
+      "name": "speak_1_0.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "67049b6068012386ad7d76130ac3b52a", 
+      "name": "speak_1_1.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "6369545588dd567c0f9d44ad7f5c7d8a", 
+      "name": "speak_1_2.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "1cd12429dc3c9af4d36e92c0afaf3a1d", 
+      "name": "speak_1_3.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "c03598cd5be022cc39f999196d8b149c", 
+      "name": "speak_1_4.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "a10790361563c8b2c6e7e830772094b6", 
+      "name": "speak_1_5.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "d36693d9a9d9e7bf3c52b7386dd27811", 
+      "name": "speak_1_6.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "f598422c51fa7d9c3d2beca66419fa52", 
+      "name": "speak_1_7.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "751590df8d54e123f8cc3afac839c1f5", 
+      "name": "speak_1_8.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "471328f91c334b445bfa05448d59f680", 
+      "name": "speak_1_9.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "3b0951ea6aa3b54f865e5125d3954f55", 
+      "name": "speak_2_0.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "6630309933c5fc71afbf92e2930d91b1", 
+      "name": "speak_2_1.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "bfbbd97355dd3ec97093b5fa00f0ae38", 
+      "name": "speak_2_2.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "91b1f2bee86fc0d8070e9571107efb48", 
+      "name": "speak_2_3.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "936dc7ce5224e3d469913fc45bddd9fb", 
+      "name": "speak_2_4.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "9e27bce5f65185aa2974fbab8ba2d58b", 
+      "name": "speak_2_5.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "42e791c03da8bd264bd406b6426370f4", 
+      "name": "speak_2_6.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "76f47c0a3fd3e846af6bc29781f977af", 
+      "name": "speak_2_7.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "04277bcc735f903df24f17b194f5b71f", 
+      "name": "speak_2_8.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "e64e54ef2cc71a335e945a1c60e11ef1", 
+      "name": "speak_2_9.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "741d0120970151acaf3208853e094e29", 
+      "name": "vf_call_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "eccc802e7118303ca7a0fbfd5d916d41", 
+      "name": "vf_fold_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "5063f3637a029fab0dd6c83d720c7bfd", 
+      "name": "vf_raise_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "aa5da658cd05bc4969cc416a2cf2bcb8", 
+      "name": "vm_call_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "ebf131d579b29b95617907a2b000f5ef", 
+      "name": "vm_fold_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "f3e890b084fca19f80d2490a09b93f7f", 
+      "name": "vm_raise_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "d9a144b957b99c561ff46e45aee87f0d", 
+      "name": "CMD_Game.luac", 
+      "path": "zhajinhua/src/models/"
+    }, 
+    {
+      "md5": "37c72e106c7a9c424101405bbbf15ff3", 
+      "name": "GameLogic.luac", 
+      "path": "zhajinhua/src/models/"
+    }, 
+    {
+      "md5": "26047d92ff90673c9e154db453f9e6e1", 
+      "name": "GameLayer.luac", 
+      "path": "zhajinhua/src/views/"
+    }, 
+    {
+      "md5": "afb530f40eb72847bf1073658c4fb0b5", 
+      "name": "GameRoomLayer.luac", 
+      "path": "zhajinhua/src/views/"
+    }, 
+    {
+      "md5": "320ee4634e78ce427e45763066779068", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "zhajinhua/src/views/"
+    }, 
+    {
+      "md5": "9c6b86ddefb55047890ee2c40b8b7bb6", 
+      "name": "CompareView.luac", 
+      "path": "zhajinhua/src/views/layer/"
+    }, 
+    {
+      "md5": "67cd3d136b38d64cd7e12819a15e22d7", 
+      "name": "GameEndView.luac", 
+      "path": "zhajinhua/src/views/layer/"
+    }, 
+    {
+      "md5": "9228c93610374161dcea5125a4b5f0c8", 
+      "name": "GameViewLayer.luac", 
+      "path": "zhajinhua/src/views/layer/"
+    }, 
+    {
+      "allcount": 83
+    }
+  ]
+}

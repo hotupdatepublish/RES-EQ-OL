@@ -1,0 +1,48 @@
+
+jinbi_spine.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb_1
+  rotate: false
+  xy: 2, 45
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+jb_2
+  rotate: false
+  xy: 74, 45
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+jb_3
+  rotate: true
+  xy: 2, 2
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+jb_4
+  rotate: true
+  xy: 76, 25
+  size: 18, 72
+  orig: 18, 72
+  offset: 0, 0
+  index: -1
+jb_5
+  rotate: false
+  xy: 186, 45
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+jb_6
+  rotate: false
+  xy: 130, 45
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1

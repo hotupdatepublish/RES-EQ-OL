@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>douniu_ani_result_bg10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{540,424}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{540,424}</string>
+			</dict>
+			<key>douniu_ani_result_bg3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{775,668},{225,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{225,118}</string>
+			</dict>
+			<key>douniu_ani_result_bg4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{703,938},{300,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,84}</string>
+			</dict>
+			<key>douniu_ani_result_bg5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,816},{697,178}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{697,178}</string>
+			</dict>
+			<key>douniu_ani_result_bg6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{546,326},{486,225}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{486,225}</string>
+			</dict>
+			<key>douniu_ani_result_bg7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{937,326},{338,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{338,82}</string>
+			</dict>
+			<key>douniu_ani_result_bg8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{703,816},{230,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{230,118}</string>
+			</dict>
+			<key>douniu_ani_result_bg9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{546,2},{450,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{450,320}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>animation1.png</string>
+			<key>realTextureFileName</key>
+			<string>animation1.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

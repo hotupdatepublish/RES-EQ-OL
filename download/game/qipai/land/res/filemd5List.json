@@ -1,0 +1,1052 @@
+{
+  "listdata": [
+    {
+      "md5": "834552925366d5fdd02c2f1239dce765", 
+      "name": "guanggao.jpg", 
+      "path": "land/res/"
+    }, 
+    {
+      "md5": "6d35b4290160b387af97d1f279a348f6", 
+      "name": "animation.plist", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "674a0e95d02a097eac1e4e44d039d6a5", 
+      "name": "animation.png", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "a6713b8abadb0b5bbd474394b58bf442", 
+      "name": "ddz_table_ani_bomb.plist", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "fea978569f3b962f6f8b02e4bb60e162", 
+      "name": "ddz_table_ani_bomb.png", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "2537430d1b8a8b35947fb1904107072e", 
+      "name": "ddz_table_ani_common.plist", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "bb63a5e1d1ccd485cecd14d6b1f7bb22", 
+      "name": "ddz_table_ani_common.png", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "a7ea07d2f1fa1c1a3e4a0dfd973a9b71", 
+      "name": "ddz_table_ani_rocket.plist", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "91f3fc35443e6e850213ad8241d8e306", 
+      "name": "ddz_table_ani_rocket.png", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "971c89949766768bccbba1ccfe462865", 
+      "name": "ddz_table_ani_shunzi.plist", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "37a0fadc8962597c45b3a366adeed488", 
+      "name": "ddz_table_ani_shunzi.png", 
+      "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "7754d1441b4d661218636a67c46d398a", 
+      "name": "Button_Disable.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "28300638971e3a59c80cfa25c0594e1c", 
+      "name": "Button_Normal.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "a23c68e9236808ac42d87d9a6bac510a", 
+      "name": "Button_Press.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "975b021a65b661c1a80140405af48020", 
+      "name": "CheckBox_Disable.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "d0a27c476e447daca135da3361bf6d95", 
+      "name": "CheckBox_Normal.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "0cb391cef256ced293323ffedc8eeebe", 
+      "name": "CheckBox_Press.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "f0c340849cdf4ebe50417d64641e0072", 
+      "name": "CheckBoxNode_Disable.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "9cef70e39ed8d690c09975d81f680e9b", 
+      "name": "CheckBoxNode_Normal.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "c4d889a796de140896ca06bda6061507", 
+      "name": "ImageFile.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "18f25c0b86ac9449d9cc1054033eb7c2", 
+      "name": "Sprite.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "e67cd582ee5fdac7cbeffb2d9a70e0db", 
+      "name": "ddz_clock_number.fnt", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "2c188afcd64ac042f5af254472037c1a", 
+      "name": "ddz_clock_number.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "39d118cb9fda4dfa2c7c3849748200d9", 
+      "name": "ddz_left_card_number.fnt", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "dcc30a0f5e05a5d631f4da061e285aed", 
+      "name": "ddz_left_card_number.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "d857f164af1ddb71215e5616f7854c65", 
+      "name": "ddz_user_chip_number.fnt", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "d38c29bb8f1d5e8be5ec22b3fad4cc07", 
+      "name": "ddz_user_chip_number.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "4cf25e01e0b9513dfc54489ec393ef2b", 
+      "name": "fnt_record2.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "569c67af86a37d6a458f2faed14e2e97", 
+      "name": "font_cardrecord.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "b76b186d46bb04b141737497e1ccc975", 
+      "name": "font_clock.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "d358ae25e62a59bf5701d4d450dbd7f8", 
+      "name": "addnum.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "125e68cc677ea8aa1d46f6e645a71df2", 
+      "name": "animation.plist", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "2a26b1e6fb37cf401025906d3604efdf", 
+      "name": "animation.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "62ea348689b0a1938f812bd7831d548c", 
+      "name": "bg_cover.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "9f1456b0eb6bae239d5f3f34e81bdb02", 
+      "name": "CardRecordLayer.csb", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "9aaa375d7230ee925cb0cb4e4cb7d847", 
+      "name": "ClockNode.csb", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "23e01133686d2b8cb280da634a905f55", 
+      "name": "game.plist", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "94c16af5c95921a1b11692265c6120e6", 
+      "name": "game.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "24dec78dfa92d49601cdba7bbb2c93da", 
+      "name": "GameEffectLayer.csb", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "c66b800d0fc8b63ff237f9955dec49c7", 
+      "name": "GameLayer.csb", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "d794875ee7ecd0e912f8d3d0e9195298", 
+      "name": "GameResultLayer.csb", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "dfb0e420e17b34b06b8ccce846a4ef37", 
+      "name": "GameRoleInfo.csb", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "e570309fc45e9ac5f7390098720836cf", 
+      "name": "GameRoleItem.csb", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "29be3155801f9531df2eb4acf59b8e25", 
+      "name": "head_dizhu1.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "d4677d4b23f5e85903d213c3a189517c", 
+      "name": "head_dizhu1_vip.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "290c8fd495d227992db721c4e5ab927e", 
+      "name": "head_dizhu2.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "13dda5ae9777efd0543f272975fbbe89", 
+      "name": "head_dizhu2_vip.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "30e32dda3fe9d7a54a5d12ae19cb32f3", 
+      "name": "head_nongmin1.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "d137ca8540bd331582afd81a99068c19", 
+      "name": "head_nongmin1_vip.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "9cec12114ab44e3f7c62aaa255374d21", 
+      "name": "head_nongmin2.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "7f402b6d31a997f49172a580819beab6", 
+      "name": "head_nongmin2_vip.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "27369bae94c9202ed05e8305f7b8c654", 
+      "name": "lose_img01.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "5de3fe6153b30e5ee6a09928bec5c314", 
+      "name": "lose_img02.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "a94b13a6b8087b887b9d09b7a1c59cd3", 
+      "name": "lose_img03.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "23c1901f57973346b19599f357b269e5", 
+      "name": "lose_img04.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "ae63164a7d341dd35d9c06c38b4d458a", 
+      "name": "poker_b.plist", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "5a6d978ea6f6a25d6d91776bf3a57cc3", 
+      "name": "poker_b.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "0e3737bdc9bce2f09fb0544050f2cb9a", 
+      "name": "table_bomb_cnt_1.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "cf6fa99b9bbfde668ed605c68238322e", 
+      "name": "table_bomb_cnt_2.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "0585653e925f8323e43f7f3871789b31", 
+      "name": "table_bomb_cnt_3.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "2396242d5f95286685fc0857c611524f", 
+      "name": "table_bomb_cnt_4.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "453c8b88b23a4605afc66b31984311ec", 
+      "name": "table_bomb_cnt_5.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "b76b186d46bb04b141737497e1ccc975", 
+      "name": "font_clock.png", 
+      "path": "land/res/img/"
+    }, 
+    {
+      "md5": "b6ee2258b04a8ccdb062a74afb878f3d", 
+      "name": "images.plist", 
+      "path": "land/res/img/"
+    }, 
+    {
+      "md5": "d156d058d917e2467ffce6578c153416", 
+      "name": "images.png", 
+      "path": "land/res/img/"
+    }, 
+    {
+      "md5": "db95c228a829ebb3790a0732a00b58b9", 
+      "name": "img_bg.jpg", 
+      "path": "land/res/img/"
+    }, 
+    {
+      "md5": "a98028d22987c32e80ce756f8ee0c9f2", 
+      "name": "icon_roomlist_0.png", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
+      "md5": "f318e4f16504e1ca082bf06f3d697f6c", 
+      "name": "icon_roomlist_1.png", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
+      "md5": "8bd5a4dc12495282299bd434b4f7aaab", 
+      "name": "icon_roomlist_2.png", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
+      "md5": "c30b3866abf152d380c70356c8812854", 
+      "name": "roomlist_title.png", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
+      "md5": "40926e22235531c95df0190a55bf03a3", 
+      "name": "roomtable.png", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
+      "md5": "a8bdbd5169cce96f43ec22d400e4b0cd", 
+      "name": "roomtable_play.png", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
+      "md5": "35f02b44520f72486eb59701097d0340", 
+      "name": "Rule.txt", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
+      "md5": "2f023b7fbe23daade3c8a0e069faac2b", 
+      "name": "background.mp3", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "fc59be18251e36f17452560bda45f8f0", 
+      "name": "bankerinfo.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "21e450a100d1b656e3364c565c56b310", 
+      "name": "click_cards.mp3", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "965d1e9815b0090aba8d6ddb0561ed09", 
+      "name": "common_alert.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "7f2c2011c6de188ec1563b9ee4097be6", 
+      "name": "common_bomb.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "07509a783022243594adca1d1d7c1692", 
+      "name": "common_plane.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "67bfb5a3b080e62a8c8058830a89ed01", 
+      "name": "dispatch.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "67bfb5a3b080e62a8c8058830a89ed01", 
+      "name": "DISPATCH_CARD.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "8c0eb6c87a45525eca062428138a4d14", 
+      "name": "Failure.mp3", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "c8ea0ddca6de5166ef14f2143294454e", 
+      "name": "gameconclude.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "184bc1894c3d15f6d014247424d2bef6", 
+      "name": "hall_background_music.mp3", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "a89c408e570913f058defccc063fff02", 
+      "name": "opencard.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "b81338369ed5cacb23c17c83e4508773", 
+      "name": "SEND_CARD.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "b81338369ed5cacb23c17c83e4508773", 
+      "name": "sendcard.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "2612db3609ba87d42708acf571a9360a", 
+      "name": "start.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "388d678f04b931d04c8a15a5a481b9f6", 
+      "name": "table_background_music.mp3", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "fa8ed747d26b6c381e8c351a3fe17611", 
+      "name": "table_sound_After_the_bomb.mp3", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "97a86740e7f8fd13950dd23d47c11ff4", 
+      "name": "Victory.mp3", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "e3f22b884dd5aa3263f6e9010775539f", 
+      "name": "xuanpai.wav", 
+      "path": "land/res/sound_res/"
+    }, 
+    {
+      "md5": "4f7534096b271855a54c7387f1f6d5ea", 
+      "name": "female_0_point.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "5a347173012c55dfe2a1c4744638c264", 
+      "name": "female_1.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "fe526728779f0d4811943c21959ceadf", 
+      "name": "female_10.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "106a94808213b29857c38f3082b74ed7", 
+      "name": "female_11.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "4fd933d51c8184d3629750d341b906db", 
+      "name": "female_12.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "89e8e88551a8c4ff0f1568c1f6629bca", 
+      "name": "female_13.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "5224d5f485979adbf0032b4e0d556522", 
+      "name": "female_14.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "6c7401d6b606f500188773f8e5a42253", 
+      "name": "female_15.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "4fd60322abf6811cea52e9ee90248d11", 
+      "name": "female_1_point.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "85cdd2cc639d189307cf6c74f89711b2", 
+      "name": "female_2.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "1f6b09326e148cd1c528f5c5ffd67474", 
+      "name": "female_2_point.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "08b90e502ddc2c13810c1000e4137fd0", 
+      "name": "female_3.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "206d7eb2a84a5dcea9adbf281c4abadc", 
+      "name": "female_3_point.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "924235863d588679e6ac3d47593e17f8", 
+      "name": "female_4.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "b5f93c6a12e40e5f7cdc74b67eaa53e5", 
+      "name": "female_5.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "3ad3ad8a080989dabe66244f14728032", 
+      "name": "female_6.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "078ae0bccd848506f82ad2a2defb1f5d", 
+      "name": "female_7.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "3ce3c0fb1fcc0ce59162d68aaefb4dc8", 
+      "name": "female_8.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "5da5766c56f67be8b265490e53204cd6", 
+      "name": "female_9.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "3e540978521309b21abc375ebaa1919b", 
+      "name": "female_airplane.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "00898f65946cec7880a0de167fb449b4", 
+      "name": "female_airplane_with_wings.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "b1f51124d5bd9fbbb20c5bee6fa818d6", 
+      "name": "female_bomb.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "481da8e5c30ad801f99b415a18c53258", 
+      "name": "female_continuous_pair.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "f2a73eba12649709266844bb462684e2", 
+      "name": "female_four_with_two.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "23b31d14fc051cd927addf65ece54b13", 
+      "name": "female_four_with_two_pair.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "315c22214dfa3e73468f37a36a739b17", 
+      "name": "female_no.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "788bfacabc922f131cc7cdf9463df4e0", 
+      "name": "female_pair1.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "2af898af926fc4d59709980063af121a", 
+      "name": "female_pair10.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "5f8861a10e620cfcc5a3ffb11e376cbe", 
+      "name": "female_pair11.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "3f6f6b0859d4eef3c865e86af48f383b", 
+      "name": "female_pair12.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "12c5b4e0b5f005ed42fac9ec27fdcd7a", 
+      "name": "female_pair13.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "2674f95ed0cb3a796b776323c23d0a9e", 
+      "name": "female_pair2.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "c23b12a4f83ae47ec72b489d3347ced3", 
+      "name": "female_pair3.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "14a1f16446e041de962a18cf4ce14d03", 
+      "name": "female_pair4.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "7a687be08349f60110ab1f51d96aae93", 
+      "name": "female_pair5.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "e2de30b3af15b4df71175a5853b3d84d", 
+      "name": "female_pair6.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "aa39293e08edddc04923121bd4b77c43", 
+      "name": "female_pair7.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "c2394da32f2f1200e5b0e485ed561d0e", 
+      "name": "female_pair8.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "b6d11b02fa99db938867af06672feca2", 
+      "name": "female_pair9.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "457da656bf849befce0fe07a0cac9d36", 
+      "name": "female_pass.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "87eb4c1c8f1e1e459fe3fe789eb48fd9", 
+      "name": "female_rocket.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "910ff6d592092c03a6e58c131f08b56e", 
+      "name": "female_shunzi.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "7415ed420fb48c21a236a72aa859bcfc", 
+      "name": "female_three_one.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "2bf9d8e760c3cedf250f3b43a6e57a40", 
+      "name": "female_three_with_one.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "da548b59198e4d7d36ca89a5edc3015e", 
+      "name": "female_three_with_one_pair.mp3", 
+      "path": "land/res/sound_res/female_voice/"
+    }, 
+    {
+      "md5": "7d30dd57790b9816930ba7a1596f4e10", 
+      "name": "man_0_point.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "9280859120aef15e998c01f36a2c20b8", 
+      "name": "man_1.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "960eb9f2ebb1370ee0617f3bf711a933", 
+      "name": "man_10.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "a024e0c6c9665aa68aed340e71d6de26", 
+      "name": "man_11.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "798b7f87b8284304d3c3e3ceb6b5ed95", 
+      "name": "man_12.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "d655b59bb08bcdb6c6b07df1d3988123", 
+      "name": "man_13.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "880b417a33889cfa7df8c59c4e4e0c95", 
+      "name": "man_14.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "7fae0f230effa48af282684239a97705", 
+      "name": "man_15.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "f61b2ceb073a9687fa9e4ecd45ece637", 
+      "name": "man_1_point.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "21b6aa4e66c36a7e7122d5987cc88c32", 
+      "name": "man_2.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "6a6c54e4167895bf4d9d34926731a730", 
+      "name": "man_2_point.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "419493717b20089a12eae40bfafb4f4e", 
+      "name": "man_3.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "4bea9256a419522ffa1ed78820737a0d", 
+      "name": "man_3_point.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "8f89b8c3bb8508fb80bf2846b81ed0d6", 
+      "name": "man_4.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "4e1f0ad9dd6c055a6022d23a6a0ae6d8", 
+      "name": "man_5.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "330a09410194c2d699568dbc0d507a2c", 
+      "name": "man_6.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "8e7116727e4a9d60619ac7be983754f5", 
+      "name": "man_7.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "5c587a00cc941956d3ab2b79b2ad6dad", 
+      "name": "man_8.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "cd623a2bb8c3fd40df5d96e0f6a0bf86", 
+      "name": "man_9.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "d325a9baa6bbbde87059cd3c6c3230b0", 
+      "name": "man_airplane.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "8178fdb90d4ed065c9e15f3f13e10cf2", 
+      "name": "man_airplane_with_wings.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "ecee355ee250385ec76f884b5e25582a", 
+      "name": "man_bomb.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "53f036056e6b5e488c89ec9ed3b58b9b", 
+      "name": "man_call_dizhu.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "c07d23c22206cb2ea15ba94368a37131", 
+      "name": "man_continuous_pair.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "a1513adc452d62f9eb9ba0fc2f77cefb", 
+      "name": "man_four_with_one_pair.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "57fa946f4c10b4284404d35b419df73c", 
+      "name": "man_four_with_two.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "9b11a7d9ceb3bb143e6a4b3b44f114ea", 
+      "name": "man_four_with_two_pair.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "972307db83672289e600a155a951f0bb", 
+      "name": "man_no.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "e109d4409d3cf5edeca71ac89280bfba", 
+      "name": "man_not_call.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "e149aa6c158b7276164e09fbd70b548f", 
+      "name": "man_not_rob.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "034f27f953dc6d4fdae3140c0e5ccc9a", 
+      "name": "man_pair1.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "70d3e57fb8cbb6a39c7ab6fcfcdb4242", 
+      "name": "man_pair10.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "e6f4f19591075bfb52bc1a79db698d38", 
+      "name": "man_pair11.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "d975c00d6b3a02866a84ff8c7d700f92", 
+      "name": "man_pair12.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "65c864d61db9dc42d37b78ecb5353910", 
+      "name": "man_pair13.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "d8647830cfe80c00dd63b1f24000c8fc", 
+      "name": "man_pair2.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "faeaa422026d1a3eae86e6c3291bc3b1", 
+      "name": "man_pair3.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "f6881323ecaf1e4098153e0d3fda3fa9", 
+      "name": "man_pair4.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "5c5b76dd22a07183b8987e8121717b24", 
+      "name": "man_pair5.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "4b9853c2dd34e72e7e6851ad743bdaea", 
+      "name": "man_pair6.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "480d67a02fb9d4dacfea80eb4a277e07", 
+      "name": "man_pair7.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "889aeaaa39b4d031b84db5d7f97a5d24", 
+      "name": "man_pair8.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "9453c53359ae3c1dea61bfbebd672d49", 
+      "name": "man_pair9.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "96cfc2d303317a436f5dc1e89d83e1f0", 
+      "name": "man_pass.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "893995dfc59953b39ee6450ef8789422", 
+      "name": "man_rob_dizhu.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "d6073361a4dec9015167739944a18641", 
+      "name": "man_rocket.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "e65a6de5dfe1fef9858da0adce284a0b", 
+      "name": "man_shunzi.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "c6cc58d88e74566b57df24a623e3ab82", 
+      "name": "man_three_one.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "a45ed9d44121de86d87f87e596cebcbe", 
+      "name": "man_three_with_one.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "607b9d15e735bcc2006c51b0e7f66871", 
+      "name": "man_three_with_one_pair.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "6ba4a7fc79a4a0a2f43f8adfd7cfbfea", 
+      "name": "airplane_beiguan.mp3", 
+      "path": "land/res/sound_res/Special_card_type/"
+    }, 
+    {
+      "md5": "27f7eecfc4f340571cf13172bd57d76a", 
+      "name": "airplane_the_first_time.mp3", 
+      "path": "land/res/sound_res/Special_card_type/"
+    }, 
+    {
+      "md5": "fcc0d3902254cd99e28232d7878043b0", 
+      "name": "bomb.mp3", 
+      "path": "land/res/sound_res/Special_card_type/"
+    }, 
+    {
+      "md5": "5d4e7fd12f4ca01656253c5ac9988f2c", 
+      "name": "continuous_pair.mp3", 
+      "path": "land/res/sound_res/Special_card_type/"
+    }, 
+    {
+      "md5": "ae799e8c1c3bb5da47e1139b48f11607", 
+      "name": "laizi_choose_card.mp3", 
+      "path": "land/res/sound_res/Special_card_type/"
+    }, 
+    {
+      "md5": "d732f08a259bad58f6325f4205c43b6b", 
+      "name": "rocket.mp3", 
+      "path": "land/res/sound_res/Special_card_type/"
+    }, 
+    {
+      "md5": "e195358131913f43857065f247383d22", 
+      "name": "shunzi.mp3", 
+      "path": "land/res/sound_res/Special_card_type/"
+    }, 
+    {
+      "md5": "2eeb610268ee95b1e05c971fbb2f7516", 
+      "name": "AudioMgr.luac", 
+      "path": "land/src/manager/"
+    }, 
+    {
+      "md5": "42cfc374f0657fcb75064576b5133847", 
+      "name": "CMD_Game.luac", 
+      "path": "land/src/models/"
+    }, 
+    {
+      "md5": "bd71cd1fae3eb60720f17600062d0f04", 
+      "name": "Define.luac", 
+      "path": "land/src/models/"
+    }, 
+    {
+      "md5": "fdcfb67d74de2d6060d5868dde6fa037", 
+      "name": "GameLogic.luac", 
+      "path": "land/src/models/"
+    }, 
+    {
+      "md5": "c579791265c6fcf06f103e68d52387be", 
+      "name": "GameLayer.luac", 
+      "path": "land/src/views/"
+    }, 
+    {
+      "md5": "24a7cc4df755bceef7afe587ba74f690", 
+      "name": "GameRoomLayer.luac", 
+      "path": "land/src/views/"
+    }, 
+    {
+      "md5": "ea7d955355c4f73863c608ce11f9f94e", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "land/src/views/"
+    }, 
+    {
+      "md5": "65109da1e7c7c987d82f8fcaf4c0128e", 
+      "name": "CardRecordLayer.luac", 
+      "path": "land/src/views/layer/"
+    }, 
+    {
+      "md5": "6ae8a4aecf6ae0dcb998fee04ee55b5d", 
+      "name": "GameEffectLayer.luac", 
+      "path": "land/src/views/layer/"
+    }, 
+    {
+      "md5": "7ebcd041ef84bffcc5f7e3e43c5428b3", 
+      "name": "GameResultLayer.luac", 
+      "path": "land/src/views/layer/"
+    }, 
+    {
+      "md5": "72275a2dca931e85f314660d00ee6e49", 
+      "name": "GameRoleItem.luac", 
+      "path": "land/src/views/layer/"
+    }, 
+    {
+      "md5": "32bc204d4a837d195f1093f321040d23", 
+      "name": "GameViewLayer.luac", 
+      "path": "land/src/views/layer/"
+    }, 
+    {
+      "md5": "0a43fcf3a0c9a8d2b8d821b7393c4aa8", 
+      "name": "CardsNode.luac", 
+      "path": "land/src/views/layer/gamecard/"
+    }, 
+    {
+      "md5": "92bd9eb801d18b9c3e122d4b71e4418f", 
+      "name": "CardSprite.luac", 
+      "path": "land/src/views/layer/gamecard/"
+    }, 
+    {
+      "allcount": 209
+    }
+  ]
+}

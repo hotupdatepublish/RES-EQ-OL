@@ -1,0 +1,83 @@
+
+wawa_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj_dianzi
+  rotate: false
+  xy: 2, 50
+  size: 203, 59
+  orig: 203, 59
+  offset: 0, 0
+  index: -1
+cj_guang
+  rotate: false
+  xy: 256, 262
+  size: 190, 210
+  orig: 190, 210
+  offset: 0, 0
+  index: -1
+cj_wa10
+  rotate: false
+  xy: 804, 159
+  size: 158, 155
+  orig: 158, 155
+  offset: 0, 0
+  index: -1
+cj_wa11
+  rotate: false
+  xy: 786, 2
+  size: 158, 155
+  orig: 158, 155
+  offset: 0, 0
+  index: -1
+cj_wa20
+  rotate: false
+  xy: 448, 290
+  size: 176, 182
+  orig: 176, 182
+  offset: 0, 0
+  index: -1
+cj_wa21
+  rotate: false
+  xy: 626, 290
+  size: 176, 182
+  orig: 176, 182
+  offset: 0, 0
+  index: -1
+cj_wa30
+  rotate: false
+  xy: 804, 316
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+cj_wa31
+  rotate: false
+  xy: 618, 132
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+cj_wa40
+  rotate: true
+  xy: 448, 135
+  size: 153, 168
+  orig: 153, 168
+  offset: 0, 0
+  index: -1
+cj_wa41
+  rotate: true
+  xy: 256, 107
+  size: 153, 168
+  orig: 153, 168
+  offset: 0, 0
+  index: -1
+cj_yizi
+  rotate: false
+  xy: 2, 111
+  size: 252, 361
+  orig: 252, 361
+  offset: 0, 0
+  index: -1

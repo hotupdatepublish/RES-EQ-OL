@@ -1,0 +1,597 @@
+{
+  "listdata": [
+    {
+      "md5": "3a494ed025f9305ac7503cb4a9615f2e", 
+      "name": "dian1.png", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "6a2a53deb06bf182b5bc9e069210f515", 
+      "name": "dian2.png", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "d0676cf77b407b0bcdf485cfd8d5b64e", 
+      "name": "dian3.png", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "2b53c7c0a54278599a0f31ab9b91c6e9", 
+      "name": "dian4.png", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "1b358fad5858c0d0dae6fc2a1c7116e5", 
+      "name": "dian5.png", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "2f18b3a811b9675df23db596b9c56f2c", 
+      "name": "dian6.png", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "6f1bc77e6bbdf95392a0bd86c950fab4", 
+      "name": "shaizi_spine.atlas", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "eb942991e881356752ce82e3a25bcab2", 
+      "name": "shaizi_spine.json", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "ad95c7d684fa7e34c0706b70f5935acd", 
+      "name": "shaizi_spine.png", 
+      "path": "28gbattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "5d7a1ce4acee8ce3f9c05404b3eb5b6a", 
+      "name": "applylist_bg.png", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "4192706014d556adb2c139f4a1729d24", 
+      "name": "applylist_btn_apply_d.png", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "711d1e9c4bb0945f96933f015d34d0bc", 
+      "name": "applylist_btn_apply_n.png", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "793f97be0b41f1de2071e0fd8ecd5d54", 
+      "name": "applylist_btn_cancle_apply_d.png", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "6db1fb03a9701bff0f241fa8d24bac2b", 
+      "name": "applylist_btn_cancle_apply_n.png", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "d2c4d5457e637afc765eaa190d25fd8c", 
+      "name": "applylist_btn_cancle_banker_d.png", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "eefabfeaa33f3a0ca804707b9b07083e", 
+      "name": "applylist_btn_cancle_banker_n.png", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "9f6385d7be41779ae09b39d6c24e2721", 
+      "name": "applylist_font_num.png", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "ea93701c8ebd45bdf69d65969bffebe4", 
+      "name": "ApplyListCellNode.csb", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "70963343a341081f7776debc2e515bdc", 
+      "name": "ApplyListNode.csb", 
+      "path": "28gbattle/res/applylist/"
+    }, 
+    {
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "28gbattle/res/fonts/"
+    }, 
+    {
+      "md5": "bc55bf3e34d753c4cbd54aafbcd7a5fa", 
+      "name": "28gang.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "48d5edc694d993bf8a898ea83da48567", 
+      "name": "bjl_game_chip_0_0.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "bd4f7877485544c7faa1190478d9b050", 
+      "name": "bjl_game_chip_1_0.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "25c056aa18644f1a3ec5cdffe909b461", 
+      "name": "bjl_game_chip_2_0.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "cadd1a58f91c6d750bded6f9eef93d0e", 
+      "name": "bjl_game_chip_3_0.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "feb5a30a006c5a488a6e538a83194c2f", 
+      "name": "bjl_game_chip_4_0.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "cdb6ed3b4d27d48b90b6659723c1596a", 
+      "name": "GameLayer.csb", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "b1717bd54bbe6a45c27cf8a6fe59b37a", 
+      "name": "mj.plist", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "6bcc7363fc1271dc7634858cc6e286e9", 
+      "name": "mj.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "9eedcc65b0131789e14dbd5996206831", 
+      "name": "player.csb", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "82a309e913b559fa6fcef975d8f22ef5", 
+      "name": "TrendLayer.csb", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "bef133da1d96d98369f77cc0b99abc8a", 
+      "name": "txt_time_free.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "2d381116f18fa33424e1b78cc249e951", 
+      "name": "zhuang.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
+      "md5": "b5bdaece6b731562119f41b8003b59c1", 
+      "name": "bg.jpg", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "1c1b3a99301079a9d896fd491b65111c", 
+      "name": "bg.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "4e4e1d5b51ba38bd7021d6c40f24c114", 
+      "name": "brnn_btn_info.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "5df8f5356af589827de04d4c9221f807", 
+      "name": "brtx.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "a3f097520325da717b878be485f5866b", 
+      "name": "c.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "bc97c186f946dbb4d6138d53aa0b86bb", 
+      "name": "dik.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "937b047d4697e2828a8f293dc9cdc914", 
+      "name": "fh.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "8a21d8d51b986610f3a8e43d2a1f1d39", 
+      "name": "fnt2.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "b286d9625dc050dfcad834766cd76215", 
+      "name": "g.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "097d0fd497725767492dfcb7a76a711f", 
+      "name": "hd.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "788bc88d9bb15112f6dbb99eff2c3d8d", 
+      "name": "jia.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "fb1baf46efe796f043f7d520bbb29eca", 
+      "name": "jiantou.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "f06d38fe09f8d8a595c2c92e97f65a74", 
+      "name": "js.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "c34521446db1f4743146c57536edeef2", 
+      "name": "jt1.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "b49faf56a9e8d8c7d6fd1c62f4134e97", 
+      "name": "ksxz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "15c0aa85bf164e96765005020552688a", 
+      "name": "los.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "2cad3456e8759235352efb604aeaecff", 
+      "name": "ludan_zz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "dcef6c061e7acf2ef920bb10ad4029ad", 
+      "name": "new_28gang.plist", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "f83bc2e20635bd997292574a94e254b6", 
+      "name": "new_28gang.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "c151726cfeb88af84e1cc5625b4f11ae", 
+      "name": "num_time.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "19b656cde152a2361d4cc9d9b41ea33b", 
+      "name": "qx.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "9c36c6362645aff75c90f89d6038ac22", 
+      "name": "sb.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "ac0dff86434f0f7a95c088f4539e57cc", 
+      "name": "sicbo_new_res_xz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "595af4b9533d4630e031bdfee35cd5aa", 
+      "name": "sm.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "e659ea3ff2c602c299fa0869500c9199", 
+      "name": "sz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "b9a7f477937a5b919420d0afd51c3d4c", 
+      "name": "tishi_bg.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "98ff5986334b402d3416917468a06aa7", 
+      "name": "top.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "3dc06810c99b7200840796095567ba73", 
+      "name": "tzxz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "bc55bf3e34d753c4cbd54aafbcd7a5fa", 
+      "name": "wfsm.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "5bb3758231a13b62833e24a845dd94b3", 
+      "name": "win.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "ed5625bf0f53207c66d0108e313ae152", 
+      "name": "zixz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "1aeed1fb602e543fd001f14846aed95e", 
+      "name": "zst.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "7a1c62e021c0bc49b91c6b5740979bf9", 
+      "name": "zzxz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "41eb52d1bd46c63bfb482d642ef18300", 
+      "name": "GameResultLayer.csb", 
+      "path": "28gbattle/res/result/"
+    }, 
+    {
+      "md5": "9dd870630e512c45ded748c03e289ed3", 
+      "name": "icon_roomlist_0.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "a61228540532551ba3c015512daa8437", 
+      "name": "icon_roomlist_1.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "abd3ad759457d799d491116e0cc922a0", 
+      "name": "icon_roomlist_2.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "b9c707de9dd52a3967ac4b9ea9439b5f", 
+      "name": "roomlist_title.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "e9063ed54e9209ea3985efcdb98df7fa", 
+      "name": "roomtable.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "de82b4d34d8a1321321fa55ab16e7fb1", 
+      "name": "roomtable_play.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "74269cc5fae2b381e637395915cb8127", 
+      "name": "Rule.txt", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "7d449478da619a5b9891b117c1416946", 
+      "name": "sitrole_font_score_add.png", 
+      "path": "28gbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "e499ed30a1217001c2b91aeacca42e12", 
+      "name": "sitrole_font_score_min.png", 
+      "path": "28gbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
+      "name": "ADD_SCORE.wav", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "f283a720018e0027548d4aab41e9de39", 
+      "name": "c_place_cn.wav", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "ced92613990690a81051a46c43a69659", 
+      "name": "Click.wav", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "10aca0de9b6b86feb51208cddab2043a", 
+      "name": "daojishi.WAV", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "bcb15be555f9015c177d94dcca55303f", 
+      "name": "ErBaGang_0.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "eade77db671b852b436a9660aadc5a98", 
+      "name": "ErBaGang_1.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "0ddbe66bf0598272035e997282b70331", 
+      "name": "ErBaGang_2.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "bc8c5e33069cb8865d13ae0c6d3f44a1", 
+      "name": "ErBaGang_28.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "5a4b88c163f02c411d02f8f1cd4d72a4", 
+      "name": "ErBaGang_3.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "0b124a3aeab6916730510af8a106e58d", 
+      "name": "ErBaGang_4.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "b549109f6234baa1b6f32cccd4fcdd55", 
+      "name": "ErBaGang_5.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "a130b1b5f61f96aa954b911eaf90556f", 
+      "name": "ErBaGang_6.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "6fa9276a670c92e60b7f3ee81e2f56ac", 
+      "name": "ErBaGang_7.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "85cb384a18fb351bb4001f6802376455", 
+      "name": "ErBaGang_8.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "7d7a47df306fba108d277edf19a11731", 
+      "name": "ErBaGang_9.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "b04196e1b7a2b3bd1931a5a39ff93149", 
+      "name": "ErBaGang_BaoZi.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "1222c8addc7278a1c66744541cef942b", 
+      "name": "ErBaGangMusic.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "d82fb502b4bf91030094b7ee82375b5c", 
+      "name": "GAME_BLACKGROUND.wav", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "7f59f079bac8a9991d7d879cb6a3b479", 
+      "name": "GAME_START.wav", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "66c7a0af4736847b2b7ca0af9096c50e", 
+      "name": "shaizi.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "727b1da1d15482d85aa8271d8f953fe7", 
+      "name": "bt.png", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "bcb065dfefe2732b61ee28351a0b89df", 
+      "name": "txk.png", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "54bebf30e976d657f2b862807004a6d6", 
+      "name": "UserCellNode.csb", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "fdf1fa10a49f9858362eda59f46f719a", 
+      "name": "UserItemNode.csb", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "67be6db402f9b766ab4661f1d2454813", 
+      "name": "userlist_avatar_frame.png", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "d3d895829f752fd0215f97cd75a1c5b1", 
+      "name": "userlist_bg.png", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "f3bdee4464bfa2f331c6b1f5db03865f", 
+      "name": "userlist_coin.png", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "bfddbb66455e08d5405f75b2d6d4bfe2", 
+      "name": "UserListNode.csb", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "6b443fd626d3894864fcd84b0cc979a2", 
+      "name": "bjlGameDefine.luac", 
+      "path": "28gbattle/src/models/"
+    }, 
+    {
+      "md5": "951921f9d207ca0967785d43043e9084", 
+      "name": "CMD_Game.luac", 
+      "path": "28gbattle/src/models/"
+    }, 
+    {
+      "md5": "3113d5a90f913ec2f228d1a9fae80a82", 
+      "name": "GameFrame.luac", 
+      "path": "28gbattle/src/models/"
+    }, 
+    {
+      "md5": "95f708a077f39910c7be79c11a56c68f", 
+      "name": "GameLogic.luac", 
+      "path": "28gbattle/src/models/"
+    }, 
+    {
+      "md5": "adbeb688be4578ae69f1ff421909581b", 
+      "name": "GameLayer.luac", 
+      "path": "28gbattle/src/views/"
+    }, 
+    {
+      "md5": "3cd2c794c9bc01fd9452c33d4cafb02b", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "28gbattle/src/views/"
+    }, 
+    {
+      "md5": "671c6eea0f1725b74ba2da54f5bc5d77", 
+      "name": "ApplyListLayer.luac", 
+      "path": "28gbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "e64df0e4a2438c9b0b0c4819a2dbdf87", 
+      "name": "CardSprite.luac", 
+      "path": "28gbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "e53ea685cf7adbf85089ceb33197ee8b", 
+      "name": "GameCardLayer.luac", 
+      "path": "28gbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "47d7ec96da6f9e56e73a462b8613c3b9", 
+      "name": "GameResultLayer.luac", 
+      "path": "28gbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "d356291493a9846a816f129175f86872", 
+      "name": "GameViewLayer.luac", 
+      "path": "28gbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "3a990c3ca59478dcc73765f2e8166994", 
+      "name": "TrendLayer.luac", 
+      "path": "28gbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "22b1d0a922b7a466bdd0d550089aa1f6", 
+      "name": "UserItem.luac", 
+      "path": "28gbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "48e9cff1561051940e35b092f3e3d0db", 
+      "name": "UserListLayer.luac", 
+      "path": "28gbattle/src/views/layer/"
+    }, 
+    {
+      "allcount": 118
+    }
+  ]
+}
