@@ -1,0 +1,22 @@
+{
+	"code":0,
+	"msg":null,
+	"data":
+			{
+				"valid":true,
+				"SharePresent":1000,
+				"FreeCount":3,
+				"SpreaderUrl":"http://100174.211.250.220:8081/Mobile/Register.aspx",
+				"WxSpreaderUrl":"http://130.211.250.220:8081/Mobile/WRegister.aspx?GameID=100174",
+				"DayTask":
+							{
+								"Field1":"",
+								"Field2":"",
+								"Field3":"",
+								"Field4":"",
+								"Field5":"",
+								"Field6":""
+							},
+				"RegGold":1888
+			}
+}
