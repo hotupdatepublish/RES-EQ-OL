@@ -11,11 +11,6 @@
 		"android_url":"http://app.bbqp0555.com",
 		"wxLogon":1,
 		"isOpenCard":0,
-		"LOGONSERVER":"59.188.233.197",
-		"GAMESERVER":"59.188.233.197",
-		"LOGONPORT":8800,
-		"HTTP_URL":"http://api.bbqp0555.com",
-		"DL_DOMAIN":"app.bbqp0555.com",
 		"gamelist":[
 			{
 				"KindID":"6",
