@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "4749ffe7b0dce0edc1b9b2c8b6895e14", 
-      "name": "cards_s.png", 
-      "path": "hkfivecardnew/res/"
-    }, 
-    {
       "md5": "487dfe4a222e048c9713d897edb9cc34", 
       "name": "souha_spine.atlas", 
       "path": "hkfivecardnew/res/animation/souha/"
@@ -31,84 +26,94 @@
       "path": "hkfivecardnew/res/animation/xipai/"
     }, 
     {
-      "md5": "b841e13e8cd0be470dd300b000e90504", 
+      "md5": "11a87beb91740f67401c8e8a06be3e23", 
       "name": "xipai_spine.png", 
       "path": "hkfivecardnew/res/animation/xipai/"
     }, 
     {
-      "md5": "95fa37cf92b859df940aa12fdc2b9683", 
+      "md5": "fe1f0f2365c63a5d1785fc26f3338d7e", 
       "name": "AddChipNode.csb", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "bfa72bca2f86f5becca7fd8a99a45f82", 
+      "md5": "de3382481804bcb7e33c3a4f4246cdf7", 
+      "name": "bg.jpg", 
+      "path": "hkfivecardnew/res/game/"
+    }, 
+    {
+      "md5": "0c9b8b8d2f0ef806da6b1708f643f49b", 
       "name": "game_add_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "35551310f8395ac37d5d931121a90f74", 
+      "md5": "7bc42fdfb7f068cc46f6a7223696b853", 
       "name": "game_max_add_back_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "42add94ea6323b494cf9b92bf292d0ab", 
+      "md5": "5527ca40b9587801076a1b44e633f6bc", 
       "name": "game_reduce_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "ae43e084fc7d789531cd748e76388cb8", 
+      "md5": "fb045acf0c68780f4dfb75d715be747a", 
       "name": "game_total_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "4ca17e792829ccfbd4100035942b704a", 
+      "md5": "a2e729ecd99115e404671519b61c3c90", 
       "name": "GameRoleItem.csb", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "dd9c0c1bc3bda0e208b5ca598ab31bb3", 
+      "md5": "455cf18bb86ce88212c2744eb1523e31", 
       "name": "GameScene.csb", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "08bbf321e3ea08b6570bb5c2e325f058", 
-      "name": "Menu.csb", 
+      "md5": "dc50678b37323974fec171dd74dbd147", 
+      "name": "gswz_new.plist", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "3f19298ac11fc55f4ca01ea52b2bc62b", 
+      "md5": "26fc5cf1e40f544d4cc69b2af7d482e3", 
+      "name": "gswz_new.png", 
+      "path": "hkfivecardnew/res/game/"
+    }, 
+    {
+      "md5": "392581e2960d7360602caa0718e16229", 
+      "name": "gz.png", 
+      "path": "hkfivecardnew/res/game/"
+    }, 
+    {
+      "md5": "494404f66f2ba1dc976380a08a2e4641", 
+      "name": "gz_h.png", 
+      "path": "hkfivecardnew/res/game/"
+    }, 
+    {
+      "md5": "c34521446db1f4743146c57536edeef2", 
+      "name": "jt1.png", 
+      "path": "hkfivecardnew/res/game/"
+    }, 
+    {
+      "md5": "8e2c9a6e88cb5732e24cf3e581ff5237", 
       "name": "SH_action_font.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "d7886b3af3d8501b2744c807f10695a6", 
+      "md5": "f2faf088d269b9ddf6e5d6a9c6259a59", 
       "name": "SH_card_type-hd.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "adca8cc70cc77f8d8d35a2eb535771ee", 
-      "name": "Slider.csb", 
+      "md5": "7c7200428d7a4ac8257a82988039ab0f", 
+      "name": "sx1_h.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "ca609bab34f9b3011570392bce1679a7", 
-      "name": "bg.jpg", 
-      "path": "hkfivecardnew/res/gswz_new_res/"
-    }, 
-    {
-      "md5": "be47d493812da859f0f84784c08f338b", 
-      "name": "dz_table.png", 
-      "path": "hkfivecardnew/res/gswz_new_res/"
-    }, 
-    {
-      "md5": "1c5ba4ec1e86b0b1db6b2302a3311a0d", 
-      "name": "gswz.plist", 
-      "path": "hkfivecardnew/res/gswz_new_res/"
-    }, 
-    {
-      "md5": "37f86c2c5437aec23067eb69533ae02d", 
-      "name": "gswz.png", 
-      "path": "hkfivecardnew/res/gswz_new_res/"
+      "md5": "ce01123b1069d8728ac12ef474566aad", 
+      "name": "tt.png", 
+      "path": "hkfivecardnew/res/game/"
     }, 
     {
       "md5": "eee513e4a877e0c68d39393fdd545fd4", 
@@ -166,7 +171,7 @@
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
-      "md5": "5500ac6b2805fb8616782ba2623232f1", 
+      "md5": "57363eb24fa25bef0bfb91e22260e5dd", 
       "name": "Rule.txt", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
@@ -336,7 +341,7 @@
       "path": "hkfivecardnew/res/sound_res/"
     }, 
     {
-      "md5": "c06e2793e1b8d3fa73eaf752eef29349", 
+      "md5": "2ded88d2a385d14726b8c4785ab8d33f", 
       "name": "CMD_Game.luac", 
       "path": "hkfivecardnew/src/models/"
     }, 
@@ -346,7 +351,7 @@
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "1d3f24c81dffc8bcb90bbc30e8c6bed3", 
+      "md5": "33bc4b500956c8a4a90ac62a3cb34df3", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
@@ -361,17 +366,17 @@
       "path": "hkfivecardnew/src/views/"
     }, 
     {
-      "md5": "fd890883fc6de02d107e88c19e33ce3a", 
+      "md5": "bed6afa861d730c782ef0d1cfa3b9fa8", 
       "name": "CardSprite.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "562ddb3ceb982d20d60dc928dfab6d9b", 
+      "md5": "dee258107ae031d7108d60b977747163", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "allcount": 74
+      "allcount": 75
     }
   ]
 }

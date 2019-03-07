@@ -46,7 +46,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "84f740bbe4237beb1d92896da656cbc7", 
+      "md5": "f6b3840e1c87ceafd8085f284dcaa85d", 
       "name": "GameResultLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -258,6 +258,11 @@
     {
       "md5": "3dc06810c99b7200840796095567ba73", 
       "name": "tzxz.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "a9b26da5dec74bec3821b88cff3c4a4a", 
+      "name": "xx.png", 
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
@@ -491,7 +496,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "aa9ebeeabc00e5176f464c38e697db87", 
+      "md5": "f0276dd51d4e7101a011de0d0736256b", 
       "name": "CMD_Game.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -506,7 +511,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "175b1a38e69eb9a38183d7fdca9d0a7e", 
+      "md5": "0b5ead9dbe1545a98b20dfc8a7aef73b", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -526,7 +531,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "4bd5f81a084460feb2b2c3ad1a5c8a27", 
+      "md5": "3ba31f189196b264bcde13a27ca31cb1", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -561,7 +566,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 112
+      "allcount": 113
     }
   ]
 }

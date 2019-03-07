@@ -1,57 +1,12 @@
 {
   "listdata": [
     {
-      "md5": "8410c5a8904361d5b2658b16a82e2134", 
-      "name": "1ready.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "2c84b7235b6992acd686247ebbb77dac", 
-      "name": "2bet.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "4c5cd58c997b57bae9cb691c9853ddf2", 
-      "name": "3look.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "a1cdf1044198f2006a0004bb4b29f964", 
-      "name": "4qipai.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "de60838a22260978febd0d060fbf5fdd", 
-      "name": "5lookother.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "303f8ef501ca1f3a12a4ed41106590a6", 
-      "name": "6compare.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "3ef374a5f286450c4ad3367299191594", 
-      "name": "7end.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "9c6e5b18eff239271dfa125da36f78e3", 
-      "name": "7endwords.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "30325b48fd07f00b789e3f556dff5295", 
-      "name": "8wanfa.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "9bd4ca303ed6d11d2f404a262286afd1", 
+      "md5": "fb68d19ecfbff501674d39d97d4e7465", 
       "name": "allimg.plist", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "8c6eb03ae665832a93ca5643d1f64230", 
+      "md5": "ee9b338cd760c9dbd7c1c96d6e87c441", 
       "name": "allimg.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -66,12 +21,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "834552925366d5fdd02c2f1239dce765", 
-      "name": "guanggao.jpg", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "19587374be45eb9b7547f2285257107b", 
+      "md5": "f5496679766cc5296d505b94c4b94378", 
       "name": "MainScene.csb", 
       "path": "zhajinhua/res/"
     }, 
@@ -86,7 +36,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "7d0e27118e9a7076971915efcf11993e", 
+      "md5": "48a16e4b63e9b3ec839a72d9a2172b4e", 
       "name": "fnt_zhajinhua_bet.png", 
       "path": "zhajinhua/res/fonts/"
     }, 
@@ -103,6 +53,21 @@
     {
       "md5": "9ae5236434f39d0b0ea921e6dd222358", 
       "name": "zhajinhua_di.png", 
+      "path": "zhajinhua/res/img/"
+    }, 
+    {
+      "md5": "e443ae74d75baedf513971deea1c315a", 
+      "name": "zhajinhua_green.png", 
+      "path": "zhajinhua/res/img/"
+    }, 
+    {
+      "md5": "d9df55ddf9ce9f778a9dc76864475551", 
+      "name": "zhajinhua_red.png", 
+      "path": "zhajinhua/res/img/"
+    }, 
+    {
+      "md5": "c1621547d4dc24869d929fc95058619d", 
+      "name": "zhajinhua_yellow.png", 
       "path": "zhajinhua/res/img/"
     }, 
     {
@@ -386,7 +351,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "26047d92ff90673c9e154db453f9e6e1", 
+      "md5": "ba438593963f50200f5f2b6c858175cb", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -396,7 +361,7 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "320ee4634e78ce427e45763066779068", 
+      "md5": "9163a228b529b44a22bc77ffe3f9eef2", 
       "name": "GameRoomListLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -411,12 +376,12 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "9228c93610374161dcea5125a4b5f0c8", 
+      "md5": "7336f8675b088f0f150cfe55ff3a74e7", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 83
+      "allcount": 76
     }
   ]
 }

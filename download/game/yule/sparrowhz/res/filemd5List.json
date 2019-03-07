@@ -11,43 +11,13 @@
       "path": "sparrowhz/res/"
     }, 
     {
-      "md5": "c012edf00f74a78e8545e9d8c3cc95a1", 
-      "name": "btn_leave.png", 
+      "md5": "46b2a8794eb2b435717f36478c938823", 
+      "name": "MJMain.plist", 
       "path": "sparrowhz/res/"
     }, 
     {
-      "md5": "0440fbe0be8349c222584add1b323547", 
-      "name": "btn_leave_press.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "9c38621a65fe3099141915e6908913d8", 
-      "name": "Plist.plist", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "06c70a649c57743263086298da69d791", 
-      "name": "Plist.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "3712266ec9620c4119378b8952285d61", 
-      "name": "sp_flag_bridge.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "6bb179c422150b3a29dc80254ba951b2", 
-      "name": "sp_flag_eat.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "0a2b3f7ebb09460704dc526a5061b8e1", 
-      "name": "sp_flag_listen.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "b5af7fdceb10d23e6e331cf9cea10baa", 
-      "name": "sp_flag_win.png", 
+      "md5": "d07ce5904643514f9656083463af0483", 
+      "name": "MJMain.png", 
       "path": "sparrowhz/res/"
     }, 
     {
@@ -126,78 +96,783 @@
       "path": "sparrowhz/res/Animate_sice_white/"
     }, 
     {
+      "md5": "696b9c83f6e89b85e4b88494d819a69f", 
+      "name": "card_back.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "aae188ce64e13f5d781e5d43bb6ce494", 
+      "name": "card_down.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "9c9438d4868ef5409b51cb1035501e6d", 
+      "name": "card_up.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "ed879ab6b867c7e89c80cb1c26c2514b", 
+      "name": "font_0_1.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "a8dae7652a2bf8f910ed700460744c97", 
+      "name": "font_0_2.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "15268c0eaa2945928ca0af7d11a5d917", 
+      "name": "font_0_3.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "5c887490b3b351bbcb57a69e5b82e32e", 
+      "name": "font_0_4.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "572cd01f2fffb4a6d98148dbf2616e55", 
+      "name": "font_0_5.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "159c24115f63ecfebd5a2c5fb7fb2993", 
+      "name": "font_0_6.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "27001d115f91da6eea8114302af0869b", 
+      "name": "font_0_7.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "7a7b3577585ff44bdbf2d94980c95bdf", 
+      "name": "font_0_8.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "c11ffdd9255812502f6f1bfed2120395", 
+      "name": "font_0_9.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "5289be46c51f8d19c7ee803d0c01ea7f", 
+      "name": "font_1_1.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "59eecf509a2960c8014b41e7319dc779", 
+      "name": "font_1_2.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "ff81c34c26801479b4056ad064115faa", 
+      "name": "font_1_3.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "289549f636133ac1d59c069f4c60dc16", 
+      "name": "font_1_4.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "b573eb6f58740730d23769827691db29", 
+      "name": "font_1_5.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "8b6f8a5790e1119c03ebb1042f21184a", 
+      "name": "font_1_6.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "d31086101a7232470fa4abb657e6bdd9", 
+      "name": "font_1_7.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "830fe4f5001eaea9c1a3372ed24dca64", 
+      "name": "font_1_8.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "6dee2a480367b44e5df5dc95860969aa", 
+      "name": "font_1_9.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "a9c9acf4a96dcde1ad09497fd265e75b", 
+      "name": "font_2_1.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "e1159598f6ca4ea2bf0da560f3b0f22f", 
+      "name": "font_2_2.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "e56f080c2115b009f6c15ba3130368fd", 
+      "name": "font_2_3.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "931218d2631e0cbfab2ca664f8525f07", 
+      "name": "font_2_4.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "ff932ccf63d972eea0b6699e0210187f", 
+      "name": "font_2_5.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "f03891309bb967aba9db0dcfd7327410", 
+      "name": "font_2_6.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "082c1408083b4f7860517436fc311650", 
+      "name": "font_2_7.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "4e0b7f722f26b41f7e8fe6cdbe5e16cd", 
+      "name": "font_2_8.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "129c8348618cba24c0570cc2ee4e330a", 
+      "name": "font_2_9.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "b8aef2ba3a87aecf3796f4d06e76a059", 
+      "name": "font_3_1.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "1638722523fad7d798487fa51db1bc80", 
+      "name": "font_3_2.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "fac2852f7bbe515a391429c794f96ffb", 
+      "name": "font_3_3.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "25cdebfd9dbb7baff302c07f086a0479", 
+      "name": "font_3_4.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "92798d22ae934524be2e34329aa71c8f", 
+      "name": "font_3_5.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "c68a724bfc8578c007e2c3b749dc0904", 
+      "name": "font_3_6.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "60e67b6c21a519d2de8241449b0c2a36", 
+      "name": "font_3_7.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "0d8576f8cbb72c02670b2d0ce0e8461d", 
+      "name": "shade_down.png", 
+      "path": "sparrowhz/res/font_big/"
+    }, 
+    {
+      "md5": "82925ff13e3b6ebf28f884683f175fb7", 
+      "name": "card_back.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "fd649f2517fec8503ad695afdda2bb0c", 
+      "name": "card_down.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "5e729fe96c52d3be7b077e92e261c9e7", 
+      "name": "card_up.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "eb475a738ae0dcf5b7330addc51843dd", 
+      "name": "font_0_1.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "dd6a6af9aeb710760ef0805c538422c0", 
+      "name": "font_0_2.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "d730392f89b6937d481f4adf60b55f1c", 
+      "name": "font_0_3.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "1937b76bb44c33fa479323be832fe3a0", 
+      "name": "font_0_4.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "bc076d64b984e3f23743695bbd21c7fa", 
+      "name": "font_0_5.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "c2ed23484d6b1704f80e557fa79c6186", 
+      "name": "font_0_6.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "25218ccefe9f12f953b329129bd3d446", 
+      "name": "font_0_7.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "81e61c7a1ad012ee526258cabf391bf3", 
+      "name": "font_0_8.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "8b367946bcce7f2e511bf97873fadb4c", 
+      "name": "font_0_9.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "5a3cbf2936ca11b3c4361eefba14d50e", 
+      "name": "font_1_1.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "43d889524da75c3192c7c8b8a62d1b87", 
+      "name": "font_1_2.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "629cd2c4d91947acc32c26e9e31c9923", 
+      "name": "font_1_3.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "ba759721f41a5ab2eb35609d1dea1e61", 
+      "name": "font_1_4.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "51b790a2b7f5898960ff4010d115b268", 
+      "name": "font_1_5.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "5fa1dc7fbfcfeb79e9a863efe9997360", 
+      "name": "font_1_6.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "ded5b6d54414b9cc4ffc659f8714677a", 
+      "name": "font_1_7.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "463dcdb566f5a024207208f9d7a4260d", 
+      "name": "font_1_8.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "d7d0374323ea51be2049e2a0f94f51c4", 
+      "name": "font_1_9.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "68a15c141e1103a7b445cc6f6e3e5e22", 
+      "name": "font_2_1.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "df7ee0ea0972e6271ea3e9062990838a", 
+      "name": "font_2_2.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "38b8536b1cde495dd8191afd3dddb7e3", 
+      "name": "font_2_3.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "a14d6144deaa3286b2a96fdec0444144", 
+      "name": "font_2_4.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "48990bd07d284727e571e83649b245c0", 
+      "name": "font_2_5.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "4c2260d6592701a5fe33a27f35d47ffa", 
+      "name": "font_2_6.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "d755f8fd1e36087a715e33a0e1477667", 
+      "name": "font_2_7.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "a07b90d651538442154caa5575f8bbeb", 
+      "name": "font_2_8.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "2c7681d63ba8ec485db1e3c214f5b64d", 
+      "name": "font_2_9.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "639d7a017fb92ca8aefe274b5ecf4d05", 
+      "name": "font_3_1.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "dcac63705c94d689ccb80720adffa265", 
+      "name": "font_3_2.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "2c085a5c115cf584baa1fa0428d0fa24", 
+      "name": "font_3_3.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "b3ee64027a2775f474001102397768f1", 
+      "name": "font_3_4.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "3a3a7877a4a6fff9cacc36f2abbd9854", 
+      "name": "font_3_5.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "91c20dc9c59bd369e53a02b624146b10", 
+      "name": "font_3_6.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "7af9b10d92737371599757edfafcbdbd", 
+      "name": "font_3_7.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "3ac24eba7b2f4cbd1d3df90bc93ac4b5", 
+      "name": "shade_down.png", 
+      "path": "sparrowhz/res/font_middle/"
+    }, 
+    {
+      "md5": "93888ef03767f71ca97490cf3a97d7d3", 
+      "name": "card_back.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "8df1b504384baa91c3ac0233fd9816fe", 
+      "name": "card_down.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "5e729fe96c52d3be7b077e92e261c9e7", 
+      "name": "card_up.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "487694a36e0b91255ea02facdfd9956b", 
+      "name": "card_up1.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "52aea2680bcaad6035a52d277f3c67e1", 
+      "name": "font_0_1.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "0bfa65ca55216aacdef067b3dcc94f9a", 
+      "name": "font_0_2.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "b63a613070e1f2879413f29b35cc0797", 
+      "name": "font_0_3.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "bf22b6a696ca84ea0eefa88102624e87", 
+      "name": "font_0_4.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "e9f71964de6424c90ae5ed92e4640dd2", 
+      "name": "font_0_5.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "490f28c2d531b0bc3dd6573db0380948", 
+      "name": "font_0_6.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "b3490bacf911898ac3b4dec4880b9e6e", 
+      "name": "font_0_7.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "e55d25635e75ad5d2c71f5a98d9931ed", 
+      "name": "font_0_8.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "9efd34cbf414a2f52cdc5135a894a7ab", 
+      "name": "font_0_9.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "7e68b8c16cac1994e14360f77428ce7b", 
+      "name": "font_1_1.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "865e573f60b4949f6f61d52aa373df3e", 
+      "name": "font_1_2.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "f6bd7f379a31190e4786cb52a711b498", 
+      "name": "font_1_3.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "9dce26bc7d8bd2b64f25fb8749cd327d", 
+      "name": "font_1_4.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "e115e3360eb1e66abbd86605468edbab", 
+      "name": "font_1_5.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "c91abda9e69ad4ccd38b5c6edca6234c", 
+      "name": "font_1_6.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "7136c0f747dd5ae831e86150167dc09c", 
+      "name": "font_1_7.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "acc442dae682ec60baabb438d60c6a3d", 
+      "name": "font_1_8.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "88d058349390546b8cde51ae89a903ee", 
+      "name": "font_1_9.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "294d0012257b62b7c3a632ecb18d2ded", 
+      "name": "font_2_1.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "b24118051c2e8d2c1410536e88511b0a", 
+      "name": "font_2_2.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "7399bda87399afc57859ace7351b6eea", 
+      "name": "font_2_3.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "40ab32f86ba799690131e874ab9f9d34", 
+      "name": "font_2_4.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "7344d3004f2104f452d5dae5133e5864", 
+      "name": "font_2_5.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "98f836bcf0ff20f887b7054a9bfb7aae", 
+      "name": "font_2_6.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "c54861e699d9b0650ce846a1de8f2d68", 
+      "name": "font_2_7.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "e348823477ae840388321084b41b926a", 
+      "name": "font_2_8.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "7fb31f90d60757a8855e6acc4a38ed71", 
+      "name": "font_2_9.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "4fa1f506a50d52cee56877cf9d9d5cab", 
+      "name": "font_3_1.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "10cb4a07856640b9dcea84a94612b537", 
+      "name": "font_3_2.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "27a87414639a4cd2e36e2f15bcef683b", 
+      "name": "font_3_3.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "e1a9efcfb6710c67861c1d00075e4b14", 
+      "name": "font_3_4.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "e622c5dbfa1818f38a9f3113bfd2df4c", 
+      "name": "font_3_5.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "ceb04839c069abb90c7f7b02a01bcc62", 
+      "name": "font_3_6.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "6c77a400c218d6e526e0fa6becdf1453", 
+      "name": "font_3_7.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "ae8e40e166f9bbddfd72378dd59f9d65", 
+      "name": "Player.csb", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "bee9ad2c2543ec64bf2b19238d991dc0", 
+      "name": "shade_down.png", 
+      "path": "sparrowhz/res/font_small/"
+    }, 
+    {
+      "md5": "c9e21912fac4194d5982976acc6df8dd", 
+      "name": "card_back.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "92d8270efd945bc461eaa0b040f261a7", 
+      "name": "card_down.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "4eb6190571aea57a661ff5fe0a32be57", 
+      "name": "font_0_1.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "509aa50e31d72d3dab247269c7bd385a", 
+      "name": "font_0_2.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "c9072577ad1a58ea679a7c95eab6e530", 
+      "name": "font_0_3.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "39919c13dfd21e341f59ab37f6ab8590", 
+      "name": "font_0_4.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "2fe0bdc1419f9315fe3ee6bff7e70342", 
+      "name": "font_0_5.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "668f3542f804cb736525391c12925922", 
+      "name": "font_0_6.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "84dad366cdd7c7a9e79fe83fbc05513a", 
+      "name": "font_0_7.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "60eb1f9ca6706ac2fafc888b0cb95c67", 
+      "name": "font_0_8.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "9e599c42b2e6d3646e644a2e4adbc63a", 
+      "name": "font_0_9.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "326123aa1eb653c7131e6c4045ef0797", 
+      "name": "font_1_1.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "8f5805f0f388aca63212c250df619b50", 
+      "name": "font_1_2.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "841dc0378d547f4019f8a8ff67a0d02a", 
+      "name": "font_1_3.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "f5d15272c573942c87d1880d2a4b237f", 
+      "name": "font_1_4.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "cca1590fb1294c9c731f9858d6d938d0", 
+      "name": "font_1_5.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "0e2e57186f0f0d2d56aeea73f1cab96b", 
+      "name": "font_1_6.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "fda4390d403d4d6d9f0c731eae7f7875", 
+      "name": "font_1_7.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "2f4758e9f325aab6d7f81784fd721eb9", 
+      "name": "font_1_8.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "f0b198e125b8c6ad32c817c3bfa98e93", 
+      "name": "font_1_9.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "eff0cc81aeabe855b4cb710bc6619f5b", 
+      "name": "font_2_1.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "a048b1980a7347d3b6b28f37699b4fa5", 
+      "name": "font_2_2.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "53cf5fc4d80cb31449937fb40c96def5", 
+      "name": "font_2_3.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "e01110c831bd630b84e1ad6fbbd72f28", 
+      "name": "font_2_4.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "e5f5e0c6343139ce51e28975692022c8", 
+      "name": "font_2_5.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "f69aa5da359eadec2bdca097924067a3", 
+      "name": "font_2_6.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "6723b661aeeb8c4e8fbb1188173f78f3", 
+      "name": "font_2_7.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "5a3b8a0c688d8fd999954bc405b05770", 
+      "name": "font_2_8.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "7d09797f0e4961bfce3c27b5e6885373", 
+      "name": "font_2_9.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "61016eddeda5169074e89fc17a34dd6d", 
+      "name": "font_3_1.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "560e4b425bcc0947ba4a34e95e25bf74", 
+      "name": "font_3_2.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "bdfb3231ce045b77404edd0449676a0a", 
+      "name": "font_3_3.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "2dcdaf4cf6de953fd1cbbd4a676d7a32", 
+      "name": "font_3_4.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "e5169f4e2cf4c2d07d96777316405257", 
+      "name": "font_3_5.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "f5a9c384034f47e2e5e2d57fa54da8ee", 
+      "name": "font_3_6.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "aa54fb40df921a928b7da76678595208", 
+      "name": "font_3_7.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
+      "md5": "fa5c7505b443ec1fb86eea6d1ce1d9b1", 
+      "name": "shade_down.png", 
+      "path": "sparrowhz/res/font_small_side/"
+    }, 
+    {
       "md5": "7b5c98a23993fb67ff9b05eea70ac37c", 
       "name": "round_body.ttf", 
       "path": "sparrowhz/res/fonts/"
     }, 
     {
-      "md5": "9752b0ff741a70e67f6b9ea540529c4e", 
-      "name": "background_sparrowHz.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "c846bf0bedbdca9102c6f6746d28e803", 
+      "md5": "ea6ba46720b1e209d03a6d56d137748d", 
       "name": "bg_02.jpg", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "ba62d9728f419dc41f70882ce6380f1e", 
-      "name": "bt_bridge_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "eba7f6addf336b5b018ac53262d14f65", 
-      "name": "bt_bridge_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "ead6de4d564cf8f53114a20da64e703c", 
-      "name": "bt_bump_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "23ff5d9b71e7698c8c8a0eaa7f1239b9", 
-      "name": "bt_bump_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "6e324804d06f65e79fecacdc48a09e2e", 
-      "name": "bt_eat_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "892f32a93620970a6b0a46288e3081eb", 
-      "name": "bt_eat_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "7f7f7b7388f487477b50ebaed71c8749", 
-      "name": "bt_pass_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "bff8ce6b777f2057da94922147f0f82f", 
-      "name": "bt_pass_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "bf0a0a24b315d6ed6dea3341e6f0dc44", 
-      "name": "bt_win_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "4e1f63203ed11344bc4e45684c3d9c3d", 
-      "name": "bt_win_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "f61581390d6cb0a2f9c45973bf01a877", 
-      "name": "btn_close.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "c8f3eb67dc1e534b533dcad1485d784f", 
-      "name": "btn_open.png", 
+      "md5": "80a9b12b74c6a89474a257b1030d76aa", 
+      "name": "btn_word_quxiaotuoguan.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
@@ -216,32 +891,12 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "bc587333293bfdf45256e50520404ca4", 
+      "md5": "b5f2bc3683b4b9fad5ce335dc5e0f581", 
       "name": "GameScene.csb", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "073e2f6d9c5671911a68bfc191380608", 
-      "name": "MaJiang.plist", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "cca2c7f6da32acb7aa809e3f68296ecd", 
-      "name": "MaJiang.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "acf42205e07ba3175dc7e2543850acf3", 
-      "name": "num_clock.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "985259217411daa13829669ba27b68de", 
-      "name": "num_score.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "76c31b6b2722cd38fac5a402a0e9b7aa", 
+      "md5": "e8dc2e6e7807e3dc515d81854a5471d6", 
       "name": "Player.csb", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -286,12 +941,12 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "3c883141fcab43f4f63ba67f42d26171", 
+      "md5": "b8c85023b97c5932daeed09ed8c977a6", 
       "name": "GameResultLayer.csb", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "d429124413d04e058d0f6bd6094edeb3", 
+      "md5": "6c5bc52498df326718cdd625ef85a67d", 
       "name": "nodeUser.csb", 
       "path": "sparrowhz/res/gameResult/"
     }, 
@@ -316,37 +971,42 @@
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "8230c89681902f42cee7ac7193df99cf", 
-      "name": "bg.png", 
+      "md5": "ffbccca7af717f92d68dba678c298cf0", 
+      "name": "bg.jpg", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "0904e74c892b22202287d2e782453cc7", 
+      "md5": "724b92e6943dfb7672f2a16a490155a6", 
       "name": "fh.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "ae28bdc3daf383946829117823c587b7", 
+      "md5": "c2cce3b2cf0dd806ad908d586bbfbd71", 
       "name": "jxyx.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "564db5b951793686c3bcd46c85bc7787", 
+      "md5": "a5b4db3dbf24a8df6fa66ad613d81238", 
       "name": "lose.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "fa46c3c5c24a16233f7278005476fb04", 
+      "md5": "ca9fd27d9e4909441eec277236736533", 
       "name": "mj_d.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "efbb6182832175a702234ec87f79fc70", 
-      "name": "tx_d.png", 
+      "md5": "47e6fb95d86830fb09d0e5d273ec7e52", 
+      "name": "ping.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "764bca5f6e979716de084ea3cfcabfe0", 
+      "md5": "2216df8e85005685703dfb50107ad757", 
+      "name": "top.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
+    }, 
+    {
+      "md5": "650028e1c04afdc9b105f6d6e4ae0837", 
       "name": "win.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
@@ -366,7 +1026,7 @@
       "path": "sparrowhz/res/roomlist/"
     }, 
     {
-      "md5": "cd50d321dc286c4aaf53a5adeb2de182", 
+      "md5": "b0e6c53706cbc1f89f4160c6cbf6ba32", 
       "name": "roomlist_title.png", 
       "path": "sparrowhz/res/roomlist/"
     }, 
@@ -381,7 +1041,7 @@
       "path": "sparrowhz/res/roomlist/"
     }, 
     {
-      "md5": "0470d3a8bb87cdb88c8ad8a6f1a9dc31", 
+      "md5": "e215db564f47e90a33a9cfb11992efed", 
       "name": "Rule.txt", 
       "path": "sparrowhz/res/roomlist/"
     }, 
@@ -921,7 +1581,12 @@
       "path": "sparrowhz/src/models/"
     }, 
     {
-      "md5": "072e7578d3578db4b4e09b6041d9871d", 
+      "md5": "a46acd2623e9dc81b1735df5ba4c7175", 
+      "name": "Toolsfunction.luac", 
+      "path": "sparrowhz/src/tools/"
+    }, 
+    {
+      "md5": "959adfd4b92915c38cd961fbfefcc0dd", 
       "name": "GameLayer.luac", 
       "path": "sparrowhz/src/views/"
     }, 
@@ -936,22 +1601,22 @@
       "path": "sparrowhz/src/views/"
     }, 
     {
-      "md5": "c3c31512eddfd3686fe4c024232ed985", 
+      "md5": "7ded792d041bbec1efcf4ac1bf2579e4", 
       "name": "CardLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "35b681af5e59269db15683ff74ceae28", 
+      "md5": "65b5cb1496911723f5d5d005ebdb688e", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "25b11ab503ee0ab3a46a8af2809c6c7a", 
+      "md5": "150cc75dce503eaf37675e43bbbe40e2", 
       "name": "ResultLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 190
+      "allcount": 323
     }
   ]
 }

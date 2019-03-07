@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "834552925366d5fdd02c2f1239dce765", 
-      "name": "guanggao.jpg", 
-      "path": "land/res/"
-    }, 
-    {
       "md5": "6d35b4290160b387af97d1f279a348f6", 
       "name": "animation.plist", 
       "path": "land/res/animation/"
@@ -176,6 +171,11 @@
       "path": "land/res/game/"
     }, 
     {
+      "md5": "2d4866a8d6ddfa49dbbd725022509df5", 
+      "name": "bg_white.png", 
+      "path": "land/res/game/"
+    }, 
+    {
       "md5": "9f1456b0eb6bae239d5f3f34e81bdb02", 
       "name": "CardRecordLayer.csb", 
       "path": "land/res/game/"
@@ -291,6 +291,11 @@
       "path": "land/res/game/"
     }, 
     {
+      "md5": "d7376ca3c4aed1d1fe5b579e2d920c94", 
+      "name": "small_bg.png", 
+      "path": "land/res/game/"
+    }, 
+    {
       "md5": "0e3737bdc9bce2f09fb0544050f2cb9a", 
       "name": "table_bomb_cnt_1.png", 
       "path": "land/res/game/"
@@ -366,7 +371,7 @@
       "path": "land/res/roomlist/"
     }, 
     {
-      "md5": "35f02b44520f72486eb59701097d0340", 
+      "md5": "d055505fa2bf32492ee3dc5cbde5c738", 
       "name": "Rule.txt", 
       "path": "land/res/roomlist/"
     }, 
@@ -981,7 +986,7 @@
       "path": "land/src/manager/"
     }, 
     {
-      "md5": "42cfc374f0657fcb75064576b5133847", 
+      "md5": "9df1e14a2fda099c4492683806475f02", 
       "name": "CMD_Game.luac", 
       "path": "land/src/models/"
     }, 
@@ -991,12 +996,12 @@
       "path": "land/src/models/"
     }, 
     {
-      "md5": "fdcfb67d74de2d6060d5868dde6fa037", 
+      "md5": "887713dafc77ba94ad1d95877c5a4ac5", 
       "name": "GameLogic.luac", 
       "path": "land/src/models/"
     }, 
     {
-      "md5": "c579791265c6fcf06f103e68d52387be", 
+      "md5": "d21a4d99af2c7b218645abadb8e936c9", 
       "name": "GameLayer.luac", 
       "path": "land/src/views/"
     }, 
@@ -1031,22 +1036,22 @@
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "32bc204d4a837d195f1093f321040d23", 
+      "md5": "896da223861080cdb04e09fdc1bfd9d2", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "0a43fcf3a0c9a8d2b8d821b7393c4aa8", 
+      "md5": "8bb20bc029687ca1549c3573a4822561", 
       "name": "CardsNode.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "92bd9eb801d18b9c3e122d4b71e4418f", 
+      "md5": "c9321c44d97891f3aee85e641af75cbc", 
       "name": "CardSprite.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 209
+      "allcount": 210
     }
   ]
 }

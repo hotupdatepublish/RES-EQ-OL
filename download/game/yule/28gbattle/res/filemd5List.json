@@ -146,7 +146,7 @@
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "9eedcc65b0131789e14dbd5996206831", 
+      "md5": "b45c267380600abbd01a36db86df7eb8", 
       "name": "player.csb", 
       "path": "28gbattle/res/game/"
     }, 
@@ -526,7 +526,7 @@
       "path": "28gbattle/src/models/"
     }, 
     {
-      "md5": "951921f9d207ca0967785d43043e9084", 
+      "md5": "aeabe0bfed7964aa4009bdf6dbed2499", 
       "name": "CMD_Game.luac", 
       "path": "28gbattle/src/models/"
     }, 
@@ -541,7 +541,7 @@
       "path": "28gbattle/src/models/"
     }, 
     {
-      "md5": "adbeb688be4578ae69f1ff421909581b", 
+      "md5": "bfb2a1d9391792ff0d506aea4c8f17da", 
       "name": "GameLayer.luac", 
       "path": "28gbattle/src/views/"
     }, 
@@ -561,17 +561,17 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "e53ea685cf7adbf85089ceb33197ee8b", 
+      "md5": "d7ba816558714bfb4f7f26a7370d525b", 
       "name": "GameCardLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "47d7ec96da6f9e56e73a462b8613c3b9", 
+      "md5": "77787e9a71ccf3d2fcea49b0de101c3f", 
       "name": "GameResultLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "d356291493a9846a816f129175f86872", 
+      "md5": "3639e2a2c49fa61144e42028bc1a54f9", 
       "name": "GameViewLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 

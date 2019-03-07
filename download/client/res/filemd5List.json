@@ -1,6 +1,181 @@
 {
   "listdata": [
     {
+      "md5": "dd68f5250f395fcc82c5209c9205ae48", 
+      "name": "agent_btn_detail.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "e0f61ab5f59f7a75b27b5d39b03333ad", 
+      "name": "agent_btn_detail_n.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "43678017ee150090bf9c9be3167e3ab8", 
+      "name": "agent_btn_my.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "6092ce8be2b3672f94ad6c416f20b2cf", 
+      "name": "agent_btn_my_n.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "3c97bc41aaf8136a1f08cde4c793dbbf", 
+      "name": "agent_btn_rank.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "8892da7f1827283258a0bf3146b58e21", 
+      "name": "agent_btn_rank_n.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "12690568a1fe6a6af2df1a6066b39b15", 
+      "name": "agent_btn_tutorial.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "7e4f82ba6ec90a07a210de130cb39f8d", 
+      "name": "agent_btn_tutorial_n.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "9fc4a9a215e0d5463f06fb230348dfc1", 
+      "name": "agent_tutorial_bg.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "0029eff9cc5dd985d2d516c4e942326d", 
+      "name": "agent_tutorial_openwechat.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "18cb5c3c9973352f8bfbe7b7ad5b8609", 
+      "name": "agent_withdraw_record_bg.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "87b23c834e0c42ccd6ef63a0be086ce4", 
+      "name": "AgentHelpNode.csb", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "3745745392085df136e10c8afb9e6107", 
+      "name": "AgentNode.csb", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "7ef5e9a741339f67540d23eb7eed096d", 
+      "name": "AgentWithdrawRecord.csb", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "a0440e087e0be6cb8dc7b04fe7936e2c", 
+      "name": "AgentWithdrawRecordCell.csb", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "65ba5e23644cf460f1219b180dcc424a", 
+      "name": "btn_get.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "931161a545c6031f18809cfc434829c5", 
+      "name": "btn_get_grey.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "da01d6daf3598048e1dabdb930849890", 
+      "name": "btn_help.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "b09f3b27081286765d3ffdc1b41882f9", 
+      "name": "btn_recode.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "34f74384a5a931bce09bb802400551a5", 
+      "name": "help_titile.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "747137b477be46d85c7611ed723c36b8", 
+      "name": "recode_title.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "bed1c7d3e34b565b5b9d5811e11bb627", 
+      "name": "rep_title.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "c6c8da7a7cd59a74f5fca74a57650a2c", 
+      "name": "SaveQRNode.csb", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "fcff6def6a02534f0872920efdb7f243", 
+      "name": "sp1.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "15af20448fe1d7889a02754dc25d9fc1", 
+      "name": "sp10.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "4fb512f920d6a1444610a5d871c4eb92", 
+      "name": "sp11.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "0d6ff651461adcaef0c0a479acb7288a", 
+      "name": "sp2.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "0c532e1dc41b6495447055107e0733ae", 
+      "name": "sp3.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "164a6676567dbfdb02cd6efd0074c289", 
+      "name": "sp4.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "5a1b23fa50eecdad200f62670c00b87a", 
+      "name": "sp5.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "9889c23d81a1e20f6038e305ba6c7f19", 
+      "name": "sp6.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "7fbf8c1af3fa923fee060502ac6635de", 
+      "name": "sp7.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "ac45be45747c9149ae76a4e2dde526de", 
+      "name": "sp8.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "bfecf79d89a6d4c06bedbe10cdf19fbb", 
+      "name": "sp9.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
+      "md5": "2fa41b4c1ff79e7ad8545857cc353356", 
+      "name": "wchat.png", 
+      "path": "client/res/agent/"
+    }, 
+    {
       "md5": "2afa1b6a7d38810214a085363c1f5ea3", 
       "name": "ancmt_ggl.png", 
       "path": "client/res/announcement/"
@@ -36,7 +211,7 @@
       "path": "client/res/binding/"
     }, 
     {
-      "md5": "83f2ff0fc0b9a939e6e41e19ff276672", 
+      "md5": "3f145911b01afdf56b230a9cb0ad9977", 
       "name": "binding_bg.png", 
       "path": "client/res/binding/"
     }, 
@@ -96,37 +271,42 @@
       "path": "client/res/binding/"
     }, 
     {
+      "md5": "62310519f1318d35a59cb03c1860f5ae", 
+      "name": "binding_tf_bg.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
       "md5": "6726ea208c5ca3a9e49996d6ed5cdcc7", 
       "name": "binding_title.png", 
       "path": "client/res/binding/"
     }, 
     {
-      "md5": "1d83af8102799d5a40590092412b19b8", 
+      "md5": "c822294f858d7b28db04e11e183f1990", 
       "name": "BindingAccountNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
-      "md5": "72f27d9026a246be3b2edaef823af2ff", 
+      "md5": "b9564f415f32af3ad02040f7880270d7", 
       "name": "BindingAlipayNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
-      "md5": "ffb53798fe78372ddb7bceb2372d4181", 
+      "md5": "847f7d0f11bb8b499fd0fe42da2d1f52", 
       "name": "BindingBankNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
-      "md5": "d27d50fa41ed913f854a88e9648b069f", 
+      "md5": "ed74fd0af8c02dc9ec3ff5cd45b0c23c", 
       "name": "BindingGiftNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
-      "md5": "f03ae115b076be98fb6413890918d0ab", 
+      "md5": "1b04661c912d3d40743fbfdfcc824c39", 
       "name": "BindingLoginNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
-      "md5": "fe8b5571a63c8cfaf09a8dd65ca078e6", 
+      "md5": "0c252ac0affff8bb7f91f576834e17c5", 
       "name": "ChooseBankNode.csb", 
       "path": "client/res/binding/"
     }, 
@@ -156,7 +336,7 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "56f0b78f3660229bf675eebeb9dfc0f4", 
+      "md5": "facab16a4d4f94e6370854cd5429c63e", 
       "name": "CoinTip.csb", 
       "path": "client/res/common/"
     }, 
@@ -396,6 +576,11 @@
       "path": "client/res/GameList/"
     }, 
     {
+      "md5": "d910fa9da561f98635f4fefb053fc9b2", 
+      "name": "lobby_game_131.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
       "md5": "be90bd7ad86ad91e8c243f6e7fef03f4", 
       "name": "lobby_game_140.png", 
       "path": "client/res/GameList/"
@@ -403,6 +588,11 @@
     {
       "md5": "040efb55b7876a0cda53ea7214013940", 
       "name": "lobby_game_150.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "e506bd2cb03d629926e0e6a41e1bc79b", 
+      "name": "lobby_game_16.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -431,7 +621,7 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "01d6ed12d2d2807d84f6e4e0033ff91a", 
+      "md5": "c0b42ec034a0930e2072de78fd5d80db", 
       "name": "lobby_game_36.png", 
       "path": "client/res/GameList/"
     }, 
@@ -446,7 +636,7 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "d969fc67e9576084a9289c0d8e288b1e", 
+      "md5": "49ac882ac47696bf8d25898286aeb757", 
       "name": "lobby_game_49.png", 
       "path": "client/res/GameList/"
     }, 
@@ -621,8 +811,58 @@
       "path": "client/res/gameroomlist/"
     }, 
     {
-      "md5": "5c3ef3995b094f871affcbb9eea8f890", 
+      "md5": "da40bbeea3803b3bf34ddd7348f3bf21", 
+      "name": "acc_regist_title.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "02cb82805b356b04f0caae739d63a559", 
+      "name": "account_login_forget.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "30efe3f038831bbca06f062b1f2b3faa", 
+      "name": "account_login_login.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "ef4fb9a28d0aab56a7c0cd4eea1135d3", 
+      "name": "account_login_logo_acc.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "6ea2eff76fd900cb5d1d1d9a30f6b26d", 
+      "name": "account_login_logo_pwd.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "2a6a98c6f6d7e619cbd4b1f863961c4e", 
+      "name": "account_login_title.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "f005a80c6b46c06dbf40f7260c34fe8c", 
+      "name": "AccountCellCreateNode.csb", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "d2d1a02b1cdfef48712b734f5b48c9f8", 
       "name": "AccountCellNode.csb", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "ae631b30410ca0981f6107b0e3e18d70", 
+      "name": "AccountLoginNode.csb", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "f77d73d77126dd17c44aa3b2487d3b22", 
+      "name": "accounts_btn_add.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "35b683e9732f1f9537274fa52f04bdb4", 
+      "name": "accounts_btn_create.png", 
       "path": "client/res/login/"
     }, 
     {
@@ -641,7 +881,7 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "032cb7dfb44d4675c9fe609f767592c0", 
+      "md5": "4066a649c0ace17964a386bafdfe36e4", 
       "name": "AccountsNode.csb", 
       "path": "client/res/login/"
     }, 
@@ -651,8 +891,18 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "013a37b7f002cda269996d422ab14257", 
+      "md5": "a16f82d190cf11feef820848aaef7090", 
+      "name": "hall_login_container.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "d8b69b5ec3e0d0ac7b3e282ebda00551", 
       "name": "login_bg.jpg", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "b1a4fe62fb3dba077d7c5d8e52fd9e6a", 
+      "name": "login_btn_acc_login.png", 
       "path": "client/res/login/"
     }, 
     {
@@ -696,22 +946,22 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "6da104087719ea63f6a2ea0d23ee7c51", 
+      "md5": "50726ed899143158ce441beab76ab056", 
       "name": "LoginMobileNode.csb", 
       "path": "client/res/login/"
     }, 
     {
-      "md5": "052b9b7a9a56045250302ea691aa4ed0", 
+      "md5": "5af4aaaa2adf1fc5c8ba0afba6759abc", 
       "name": "LoginNode.csb", 
       "path": "client/res/login/"
     }, 
     {
-      "md5": "4e0844edec63b43e95efb3c415b0fa57", 
+      "md5": "685feb895483c1f7a89a37986dc5548e", 
       "name": "LoginView.csb", 
       "path": "client/res/login/"
     }, 
     {
-      "md5": "f0efc336a48b8b2227085e1be6c8151b", 
+      "md5": "1858393b4ae9f037d76dd17ee831d5f3", 
       "name": "logo.png", 
       "path": "client/res/login/"
     }, 
@@ -736,13 +986,23 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "3cee1c9e8ab066046a4bfe4cd1262787", 
+      "md5": "c4a8f6a38cfdb68f85e08867e0867ede", 
       "name": "RegisterNode.csb", 
       "path": "client/res/login/"
     }, 
     {
       "md5": "7e4bf98b78e2a16cfd91a5cce79ada76", 
       "name": "RegistScene.csb", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "eb9d4921a3489e936881593da843b0e4", 
+      "name": "reset_pwd_tips.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "d2f7a881f1e7bd96bbe0183b0049cd2c", 
+      "name": "ResetLoginPwdNode.csb", 
       "path": "client/res/login/"
     }, 
     {
@@ -801,6 +1061,21 @@
       "path": "client/res/mailbox/"
     }, 
     {
+      "md5": "bc1ac740fcb43b8852b64bba94df7c4c", 
+      "name": "db.png", 
+      "path": "client/res/onlineServer/"
+    }, 
+    {
+      "md5": "7fef06cff4322614403803837362c7a3", 
+      "name": "OnlineServer.csb", 
+      "path": "client/res/onlineServer/"
+    }, 
+    {
+      "md5": "e114d70bb033919ea4a95e53f38ef225", 
+      "name": "zxkf.png", 
+      "path": "client/res/onlineServer/"
+    }, 
+    {
       "md5": "9368539bebd84e2fd691b553e747fc0b", 
       "name": "an.png", 
       "path": "client/res/plazz/"
@@ -846,7 +1121,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "34071cf291ee292409ace317cdd80a55", 
+      "md5": "bed08c15fad96ed87a73fe4c8960e148", 
       "name": "loading.jpg", 
       "path": "client/res/plazz/"
     }, 
@@ -861,17 +1136,22 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "ab63b9a20a1c19aa957b0d897c1a4521", 
+      "md5": "086de91dc14664a064e941496515f186", 
+      "name": "logo.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "dbfa06e8a0e896da50de2757388698ce", 
       "name": "plazz.plist", 
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "6269363641739767b06bb7ea8e81cc92", 
+      "md5": "a48c63438a951d50313b429d6d5c1f6b", 
       "name": "plazz.png", 
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "e0aa25919e50f80acdcd6e3106d39324", 
+      "md5": "e6d0a37596bf49d2f16c35e90ca21f91", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -1126,22 +1406,22 @@
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "3c52e0b5751094edba8bda816c4bc097", 
+      "md5": "5a1779adf733f170a46f295e05cfac42", 
       "name": "ranking_rank_0.png", 
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "e99b2088a06ad5f16e6d1684ae6855e6", 
+      "md5": "da3432b8d4b251616dbb8445ce797f37", 
       "name": "ranking_rank_1.png", 
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "e89498d67cee8a13c62ca951fff64cbb", 
+      "md5": "82504e81d9c81d289032e79cb008ef26", 
       "name": "ranking_rank_2.png", 
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "c1980cdaf59548b50da2000df5de2857", 
+      "md5": "40539d2383a59f7f02b5b09385e48ce0", 
       "name": "ranking_rank_3.png", 
       "path": "client/res/rankingchart/"
     }, 
@@ -1166,22 +1446,22 @@
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "70ab400dc7878ac0b7e3d2a33c67d08e", 
+      "md5": "e7bb2f78f8b4f985a44f2dd61964d388", 
       "name": "RankingCellNode.csb", 
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "fcb238782d6adec90164b51f4141b64c", 
+      "md5": "b4b9a6a3f5ed09baf3e3eff21fa758d4", 
       "name": "RankingChart.csb", 
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "e9115733deeb75558f85c4b2f643d31b", 
+      "md5": "a47b817c0e8914a451661703d8a67d70", 
       "name": "rankingRule.txt", 
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "72c16a9b36dc9a56834e4d1dafd91063", 
+      "md5": "0a80093f9ca00de4740380c9bb862271", 
       "name": "RankingRuleNode.csb", 
       "path": "client/res/rankingchart/"
     }, 
@@ -1201,7 +1481,7 @@
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "835b8a9ab76d9ed79c8f4611ee15f155", 
+      "md5": "58a67d0977af3a4e712957db96eaaeb5", 
       "name": "zj.png", 
       "path": "client/res/rankingchart/"
     }, 
@@ -1501,7 +1781,17 @@
       "path": "client/res/Room/"
     }, 
     {
-      "md5": "cff61d9b15fa156ee585f0742441754a", 
+      "md5": "8144308e5e0f43df214a864dd0fa65d7", 
+      "name": "ResetPasswordNode.csb", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "b85827c7f45d090807588729bbe35a0f", 
+      "name": "resetpwd_title.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "9eed2fcc343f5ee9b016fa53cdef21c3", 
       "name": "SafeBox.csb", 
       "path": "client/res/safebox/"
     }, 
@@ -1528,6 +1818,11 @@
     {
       "md5": "ea721a43534923ecff528dd58002781f", 
       "name": "safebox_btn_deposit_n.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "296f96b096c54fed5a054094e2c3f9ee", 
+      "name": "safebox_btn_fogetpwd.png", 
       "path": "client/res/safebox/"
     }, 
     {
@@ -1571,7 +1866,7 @@
       "path": "client/res/safebox/"
     }, 
     {
-      "md5": "5a939146e4de8c848977fb2057c30840", 
+      "md5": "4847d5cb9056a1f68f521583449da741", 
       "name": "SetBankPwdNode.csb", 
       "path": "client/res/safebox/"
     }, 
@@ -1771,7 +2066,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "e1221cb0ea77aeb9c807432b3021d2b9", 
+      "md5": "1059743babcaa3ecc75d40933d1b0f30", 
       "name": "UserInfo.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -1856,7 +2151,7 @@
       "path": "client/res/withdraw/"
     }, 
     {
-      "md5": "1bd88533d5f71e557126ae454ea884f4", 
+      "md5": "bc79f72199e77460aee1614be9a92b0a", 
       "name": "Withdraw.csb", 
       "path": "client/res/withdraw/"
     }, 
@@ -1931,6 +2226,11 @@
       "path": "client/res/withdraw/"
     }, 
     {
+      "md5": "e74a11784930e8033e7c790081d7eb6c", 
+      "name": "withdraw_type_bg.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
       "md5": "818aeaa9268e842b47c19b31d0b11093", 
       "name": "WithdrawRecord.csb", 
       "path": "client/res/withdraw/"
@@ -1966,7 +2266,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "c75ed0975abbe1f4d43e81f6572efb53", 
+      "md5": "96866d50670b70870ac8b71cb394f520", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
@@ -2021,7 +2321,7 @@
       "path": "client/src/header/"
     }, 
     {
-      "md5": "2225240c6764c801f68ee9ebf8213bff", 
+      "md5": "6a5a1a18bbb9467757aea1acd6d17359", 
       "name": "BankFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2046,7 +2346,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "87cdede3e940fbc25db37d116225cbc1", 
+      "md5": "6d29f3bd5ba0906827b48e3f33636393", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2056,7 +2356,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "cd965e20461f7fa6337598d8d481b7ed", 
+      "md5": "283e0b468a46edfe179cc5227fc5293f", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2066,7 +2366,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "4c7e899d0770f0b9dd1ab63178788665", 
+      "md5": "55c7b1d2b205dc230b6dee21e5133518", 
       "name": "LogonFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2091,12 +2391,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "b44509d5208e846f3b64e0953a7a3527", 
+      "md5": "d044f725156e67866de2ffde52e1edd3", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "d6565064ff20aea979c26c8021856fe4", 
+      "md5": "0896d2fc817106af6066afdba92e3f91", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2106,7 +2406,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "c18ed1fef3eb2cecb83ee2a10495ef3c", 
+      "md5": "2494fd9120c4f2e7eb0d43e9ad2ca3b9", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2166,23 +2466,28 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "1174a4da68e920407cf3daf78c8f3cf5", 
+      "md5": "5e8c61da86aa50c464f7d3c0f6336685", 
+      "name": "AccountLoginLayer.luac", 
+      "path": "client/src/plaza/views/layer/logon/"
+    }, 
+    {
+      "md5": "d14d40345dc1e905af6845408855778d", 
       "name": "AccountsLayer.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "121c34b85f078b9aabe67ccb2d076b2e", 
-      "name": "LoginView.luac", 
-      "path": "client/src/plaza/views/layer/logon/"
-    }, 
-    {
-      "md5": "c063e69aacc4fb79968d594805dfb4bb", 
+      "md5": "9b878942ebbfd19210865bb3dd1c848a", 
       "name": "LogonView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
       "md5": "4d76eeb4d1c82d5ede27de4cc3d237c8", 
       "name": "RegisterView.luac", 
+      "path": "client/src/plaza/views/layer/logon/"
+    }, 
+    {
+      "md5": "785bf20a3c2238d1a453e82d3b276caa", 
+      "name": "ResetLoginPwdLayer.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
@@ -2194,6 +2499,21 @@
       "md5": "e7ab3cea59990d758d38de9bf8c153a6", 
       "name": "RichLabel.luac", 
       "path": "client/src/plaza/views/layer/other/"
+    }, 
+    {
+      "md5": "c05e698dcb23b8400918f2bb5855431d", 
+      "name": "AgentHelpLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "650f0f48604f9ddf6e98fef9f43b7c92", 
+      "name": "AgentLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "5ba301342bee93d52d6422990e15b70b", 
+      "name": "AgentWithdrawRecordLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
       "md5": "cd4e39454c6f32ec6756218169889916", 
@@ -2211,7 +2531,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "75d94bb8dbb4e81a6d0d2b93bb7f7ffd", 
+      "md5": "fcfdb643e64bc2cbb018d6958cff16cf", 
       "name": "BagRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2231,22 +2551,22 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d68a7cb82ff1b735c19b72e80e147e54", 
+      "md5": "ab38269388f1ebc291ee6e6adcf3d07f", 
       "name": "BankRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ea1236125d29422c6a7b9a4d5b7db84d", 
+      "md5": "b4d26082d3598597aa0351bcfcf3cb2f", 
       "name": "BindingAccountLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "5df520e5f4987e586b6d1bc928d909bf", 
+      "md5": "5b4a6d9742d077a4373ead9d0796f6c7", 
       "name": "BindingAlipayLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e1c99110d5325b8764fd35565b5d629b", 
+      "md5": "c1b9061141936ec14f9a579a1036bff8", 
       "name": "BindingBankLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2276,27 +2596,27 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "94c10d3348e174941f515de77a1be2a7", 
+      "md5": "ef0125d349a70cca6c74f7e7811578af", 
       "name": "ComplaintsLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "74462fb66982457022238be5a3336874", 
+      "md5": "16fa8d17e2e9e7f05cc1aff4d29c4026", 
       "name": "ComplaintsProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "df3d8b98026e34a63050b32824a87d0a", 
+      "md5": "a437dc7ba376c29f2f339ad90eca15b6", 
       "name": "ComproblemLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e50b18a524f1a93c8714cdb0a829d501", 
+      "md5": "d7868d854a03499b0152c76286c57174", 
       "name": "ContactProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "2049592bfed762623b2bfced1ccd2ebb", 
+      "md5": "261a043ee7fc65b2a293882fc9c875e7", 
       "name": "EveryDayLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2311,12 +2631,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "2d89e6a1a5210fcb2a7ea987191d06d9", 
+      "md5": "e61e8d3bf674742ef477db72db854475", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "808b9a910a3eb47a4046ab87366a280c", 
+      "md5": "eb965e66c8f3434c9fef690ba0721b57", 
       "name": "IntroduceLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2331,22 +2651,27 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "625409eb645104f908651cb5c4efad2e", 
+      "md5": "e85b47cce2c877402576095a923b50d7", 
+      "name": "OnlineServerLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "ce9f930e8cea61d39cb0b14082332f67", 
       "name": "OrderRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "a6bc6cee6c8304c67247bec6b34fdf2e", 
+      "md5": "57cca6ed411ad3ff6ca2731016f1b222", 
       "name": "PurchaseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "78a99ad577ddd3053c3a4446f948832b", 
+      "md5": "42b95b3c60cfa54db872b5332b94e113", 
       "name": "RankingChartLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "731f4427d5f2cde0aba7bf14ef04f305", 
+      "md5": "49bc7c385ff207f51f4d4e5e473378e6", 
       "name": "RankingListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2361,18 +2686,28 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "6b13e7a5ddbaa44ce22bf58020860a2c", 
+      "md5": "3f2c20bc1dd6e22e8bacbc2cc954ad08", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "83135a221cd2fa58311ea289534018f8", 
+      "md5": "ef57eff49439acbf44d17563061b9a29", 
+      "name": "ResetPasswordLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "63003aeffc6a7413132c18a2e1c6178c", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "dd586c4e1ec2659d51a3359c3ee25260", 
+      "md5": "045186e9d65a0a784495c37eab926634", 
       "name": "SafeBoxLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "d626309e8e20092047ebd0b52c66de68", 
+      "name": "SaveQRCodeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -2391,17 +2726,17 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d15d159252b0849916df1a1d7a7758fa", 
+      "md5": "1e9ec91a24b8515ba2b46f184b899c2f", 
       "name": "ShopLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "4db44cbc3e14706466eb748b057933ac", 
+      "md5": "9f8c22a63c87bc6d761dfb674122d09e", 
       "name": "SpreadLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "a72b8c21947cdf389ef651221e1e9421", 
+      "md5": "a74b82da65956f0233a74915834fbc98", 
       "name": "TableLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2431,7 +2766,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "93daaa671b226a07c6944260ebe7f435", 
+      "md5": "07376a4d6e7f40bca5f28f73d449474f", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2441,17 +2776,17 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "4ba6e30644490ed377855ed27f1cf65f", 
+      "md5": "85e176a2f0ffb17a04fbebb4d776a598", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "eddbc5fd31cf6c674ef26fd05ed5b3c1", 
+      "md5": "4c7cbbe4bb44d7a307ba98777bf52fb1", 
       "name": "WithdrawLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "19519eabe0d43be23a3c0ffa087d754d", 
+      "md5": "08d95b0f8f340738244ab8144b58a496", 
       "name": "WithdrawRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2571,7 +2906,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 514
+      "allcount": 581
     }
   ]
 }

@@ -156,7 +156,7 @@
       "path": "oxnew/res/roomlist/"
     }, 
     {
-      "md5": "a0f9aa882465f1ffd886766cf318b4eb", 
+      "md5": "179926544284931872d2d4fa8400bdaf", 
       "name": "Rule.txt", 
       "path": "oxnew/res/roomlist/"
     }, 
@@ -386,7 +386,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "61f531cd71e8238004ef73e63085fde1", 
+      "md5": "a7503a378eb3aa3f029b34bcc9d76fb0", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -396,7 +396,7 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "5fb45922c7bde295677f471238a594cb", 
+      "md5": "15e451172749cc331fb33d64ff0776ee", 
       "name": "GameRoomListLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -406,7 +406,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "b51cc152906c82a70f23c952ce50817e", 
+      "md5": "0cf59c3015c4c318f8078d7d50603af6", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
