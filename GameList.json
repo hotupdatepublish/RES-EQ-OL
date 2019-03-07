@@ -18,18 +18,8 @@
 				"TypeID":"0",
 				"ModuleName":"yule.zhajinhua",
 				"ClientVersion":"101122049",
-				"ResVersion":"60",
+				"ResVersion":"63",
 				"SortID":"3",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"89",
-				"KindName":"红黑大战",
-				"TypeID":"0",
-				"ModuleName":"yule.h3card",
-				"ClientVersion":"101122049",
-				"ResVersion":"60",
-				"SortID":"7",
 				"KindMark":"3"
 			},
 			{
@@ -38,8 +28,18 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"60",
+				"ResVersion":"63",
 				"SortID":"2",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"89",
+				"KindName":"红黑大战",
+				"TypeID":"0",
+				"ModuleName":"yule.h3card",
+				"ClientVersion":"101122049",
+				"ResVersion":"63",
+				"SortID":"7",
 				"KindMark":"3"
 			},
 			{
@@ -48,7 +48,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxbattle",
 				"ClientVersion":"101122049",
-				"ResVersion":"60",
+				"ResVersion":"63",
 				"SortID":"1",
 				"KindMark":"3"
 			},
@@ -58,7 +58,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.28gbattle",
 				"ClientVersion":"101122049",
-				"ResVersion":"60",
+				"ResVersion":"63",
 				"SortID":"4",
 				"KindMark":"3"
 			},
@@ -68,7 +68,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.baccaratnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"61",
+				"ResVersion":"64",
 				"SortID":"8",
 				"KindMark":"3"
 			},
@@ -78,7 +78,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.dragontiger",
 				"ClientVersion":"101122049",
-				"ResVersion":"60",
+				"ResVersion":"63",
 				"SortID":"5",
 				"KindMark":"3"
 			},
@@ -88,7 +88,7 @@
 				"TypeID":"0",
 				"ModuleName":"qipai.land",
 				"ClientVersion":"101122049",
-				"ResVersion":"59",
+				"ResVersion":"62",
 				"SortID":"9",
 				"KindMark":"3"
 			},
@@ -98,7 +98,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.sparrowhz",
 				"ClientVersion":"101122049",
-				"ResVersion":"65",
+				"ResVersion":"68",
 				"SortID":"6",
 				"KindMark":"3"
 			},
@@ -108,7 +108,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
-				"ResVersion":"60",
+				"ResVersion":"63",
 				"SortID":"10",
 				"KindMark":"3"
 			}]
